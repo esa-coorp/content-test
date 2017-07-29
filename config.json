@@ -1,0 +1,9 @@
+{
+    "name": "test",
+    "locales": [
+        "en",
+        "fr"
+    ],
+    "s3Bucket": "static.coorpacademy.com/content/test",
+    "videoProvider": "vimeo"
+}
