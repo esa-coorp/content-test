@@ -1,0 +1,117 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-07T15:22:13.765Z",
+            "updatedAt": "2017-06-01T09:45:18.121Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_Vyu53jxR~",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vyu53jxR~.choice_Nklii3jl0W.id",
+                        "label": "choice_Nklii3jl0W",
+                        "value": "choice_Nklii3jl0W",
+                        "media": "med_Nyoj2jlA~"
+                    },
+                    {
+                        "id": "sli_Vyu53jxR~.choice_EyxDnnoxAb.id",
+                        "label": "choice_EyxDnnoxAb",
+                        "value": "choice_EyxDnnoxAb",
+                        "media": "med_4kPn3igAW"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyxDnnoxAb"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_N1GONne0~",
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "question graphic",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "key",
+            "tips": "yes",
+            "clue": "clue",
+            "choice_Nklii3jl0W": "choice 1",
+            "choice_EyxDnnoxAb": "choice 2",
+            "context_title": "context",
+            "context_description": "description"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "choice_Nklii3jl0W": "",
+            "choice_EyxDnnoxAb": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "choice_Nklii3jl0W": "",
+            "choice_EyxDnnoxAb": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "choice_Nklii3jl0W": "",
+            "choice_EyxDnnoxAb": ""
+        },
+        "da": {
+            "header": "question graphic",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "key",
+            "tips": "yes",
+            "clue": "clue",
+            "choice_Nklii3jl0W": "choice 1",
+            "choice_EyxDnnoxAb": "choice 2",
+            "context_title": "context",
+            "context_description": "description"
+        },
+        "za": {
+            "header": "question graphic",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "key",
+            "tips": "yes",
+            "clue": "clue",
+            "choice_Nklii3jl0W": "choice 1",
+            "choice_EyxDnnoxAb": "choice 2",
+            "context_title": "context",
+            "context_description": "description"
+        }
+    }
+}

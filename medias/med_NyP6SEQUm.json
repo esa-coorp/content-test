@@ -1,0 +1,35 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T20:04:49.256Z",
+            "updatedAt": "2017-07-27T20:04:49.256Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "med_NyP6SEQUm",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_Vke5pSVmLm",
+                "mimeType": "",
+                "mediaUrl": "mediaUrl_EJqTSEQUm"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "mediaUrl_EJqTSEQUm": "//static.coorpacademy.com/content/partner-au-feminin/fr/medias/img/choice/vrai-1455034601910.png",
+            "filename_Vke5pSVmLm": "vrai-1455034601910.png"
+        },
+        "en": {},
+        "es": {},
+        "cs": {},
+        "da": {},
+        "za": {}
+    }
+}

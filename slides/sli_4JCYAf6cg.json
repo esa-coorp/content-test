@@ -1,0 +1,94 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T08:33:06.166Z",
+            "updatedAt": "2016-08-22T13:43:13.055Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4JCYAf6cg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel62394",
+                        "label": "label_VJeIJ7a9x",
+                        "items": [
+                            {
+                                "text": "choice_41xgLJ7Tcg",
+                                "value": "choice_41xgLJ7Tcg"
+                            },
+                            {
+                                "text": "choice_VyZxUkmaql",
+                                "value": "choice_VyZxUkmaql"
+                            },
+                            {
+                                "text": "choice_4JQIJ7pqx",
+                                "value": "choice_4JQIJ7pqx"
+                            },
+                            {
+                                "text": "choice_NkxQUyQTcx",
+                                "value": "choice_NkxQUyQTcx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel62394",
+                        "answers": [
+                            "choice_4JQIJ7pqx"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Les Françaises de plus de 39 ans n'ayant jamais arrêté leur carrière pour raisons familiales gagnent davantage que celles qui l'ont interrompue. Pour une différence de quel ordre ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une étude de 2010 a révélé que les Françaises de plus de 39 ans n'ayant jamais arrêté de travailler pour raisons familiales gagnent en moyenne 23% de plus que celles qui l'ont interrompue.",
+            "tips": "C'est ce qu'on appelle le \"family pay gap\", c'est-à-dire les écarts de salaire dus aux caractéristiques familiales.",
+            "template": "{{sel62394}}",
+            "clue": "Pas loin du quart.",
+            "label_VJeIJ7a9x": " ",
+            "choice_41xgLJ7Tcg": "5%",
+            "choice_VyZxUkmaql": "10%",
+            "choice_4JQIJ7pqx": "23%",
+            "choice_NkxQUyQTcx": "39%"
+        },
+        "en": {
+            "header": "French women over 39 who have never stopped their career for family reasons earn more than those whose careers were interrupted. What percentage does this difference represent?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "A 2010 study revealed that French women over 39 who have never stopped working for family reasons earn on average 23% more than those whose careers were interrupted.",
+            "tips": "This is know as the \"family pay gap\".",
+            "template": "{{sel62394}}",
+            "label_VJeIJ7a9x": " ",
+            "choice_41xgLJ7Tcg": "5%",
+            "choice_VyZxUkmaql": "10%",
+            "choice_4JQIJ7pqx": "23%",
+            "choice_NkxQUyQTcx": "39%",
+            "clue": "Not far off a quarter"
+        }
+    }
+}

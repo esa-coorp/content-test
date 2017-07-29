@@ -1,0 +1,33 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-27T12:56:47.450Z",
+            "updatedAt": "2016-07-18T15:55:43.410Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "leosiegel",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "med_NkoXXVZXb",
+        "type": "video",
+        "videoProvider": "vimeo",
+        "src": [
+            {
+                "mimeType": "application/vimeo",
+                "videoId": "videoId_4JbomQV~QZ"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "videoId_4JbomQV~QZ": "163529631"
+        },
+        "en": {
+            "videoId_4JbomQV~QZ": "175240165"
+        }
+    }
+}

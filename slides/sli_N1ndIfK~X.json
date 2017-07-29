@@ -1,0 +1,124 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T14:41:17.853Z",
+            "updatedAt": "2017-06-01T14:46:56.867Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_N1ndIfK~X",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1ndIfK~X.choice_VyCcUztZX.id",
+                        "label": "choice_VyCcUztZX",
+                        "value": "choice_VyCcUztZX"
+                    },
+                    {
+                        "id": "sli_N1ndIfK~X.choice_EyyiLMFZX.id",
+                        "label": "choice_EyyiLMFZX",
+                        "value": "choice_EyyiLMFZX"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyCcUztZX"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Déplacez la réponse vrai à la colonne de droite",
+            "explanation": "Cliquez sur les bonnes réponses pour les déplacer dans la seconde colonne.",
+            "klf": "xxx",
+            "tips": "xxx",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyCcUztZX": "Vrai",
+            "choice_EyyiLMFZX": "Faux"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Click on the correct answers to place them in the second column.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyCcUztZX": "",
+            "choice_EyyiLMFZX": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Presione las respuestas correctas para colocarlas en la segunda columna.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyCcUztZX": "",
+            "choice_EyyiLMFZX": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyCcUztZX": "",
+            "choice_EyyiLMFZX": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyCcUztZX": "",
+            "choice_EyyiLMFZX": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyCcUztZX": "",
+            "choice_EyyiLMFZX": ""
+        }
+    }
+}

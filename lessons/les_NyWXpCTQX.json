@@ -1,0 +1,60 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-29T12:12:28.596Z",
+            "updatedAt": "2017-07-27T20:23:57.961Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "slides": [
+                "sli_Vy88~R-bX",
+                "sli_VkcAWR-ZQ",
+                "sli_4kl~7RubX",
+                "sli_E1iEQRuZm",
+                "sli_EyinLfF~X",
+                "sli_4ymMuMFbA",
+                "sli_4ymMuMFbB",
+                "sli_4ymMuMFb7",
+                "sli_4ymMuMFb9",
+                "sli_4ymMuMFb8",
+                "sli_VktuuzFW7",
+                "sli_NJ862PX7Q",
+                "sli_41GXTiG8X",
+                "sli_411QXN7U7",
+                "sli_41JSrE787",
+                "sli_Vkj984XI7",
+                "sli_N159vNmUX"
+            ],
+            "chapters": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "jomaora"
+        },
+        "ref": "les_NyWXpCTQX",
+        "position": 0,
+        "poster": "med_EJ84pATQm",
+        "description": "description",
+        "resource": "med_EkI7aRpmm"
+    },
+    "locales": {
+        "fr": {
+            "description": "A Short History of Search Engines"
+        },
+        "en": {
+            "description": ""
+        },
+        "es": {
+            "description": ""
+        },
+        "cs": {
+            "description": ""
+        },
+        "da": {
+            "description": ""
+        },
+        "za": {
+            "description": ""
+        }
+    }
+}

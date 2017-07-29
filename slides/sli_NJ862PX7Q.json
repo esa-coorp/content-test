@@ -1,0 +1,145 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-21T14:08:52.878Z",
+            "updatedAt": "2017-06-29T12:33:25.425Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_NJ862PX7Q",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ862PX7Q.choice_EyuRnDmQ7.id",
+                        "label": "choice_EyuRnDmQ7",
+                        "value": "choice_EyuRnDmQ7"
+                    },
+                    {
+                        "id": "sli_NJ862PX7Q.choice_V1Y0hwX77.id",
+                        "label": "choice_V1Y0hwX77",
+                        "value": "choice_V1Y0hwX77"
+                    },
+                    {
+                        "id": "sli_NJ862PX7Q.choice_NJ5A2w7QX.id",
+                        "label": "choice_NJ5A2w7QX",
+                        "value": "choice_NJ5A2w7QX"
+                    },
+                    {
+                        "id": "sli_NJ862PX7Q.choice_NkoC2Dm7Q.id",
+                        "label": "choice_NkoC2Dm7Q",
+                        "value": "choice_NkoC2Dm7Q"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyuRnDmQ7",
+                        "choice_V1Y0hwX77"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans quels pays est présent Coorpacademy ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Coorpacademy compte deux sièges principaux, un à Paris, l'autre à Lausanne.",
+            "tips": "Nos vidéo conf se font toujours avec les équipes des deux pays.",
+            "clue": "FR et CH",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuRnDmQ7": "France",
+            "choice_V1Y0hwX77": "Suisse",
+            "choice_NJ5A2w7QX": "Fiji",
+            "choice_NkoC2Dm7Q": "Tonga"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuRnDmQ7": "",
+            "choice_V1Y0hwX77": "",
+            "choice_NJ5A2w7QX": "",
+            "choice_NkoC2Dm7Q": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuRnDmQ7": "",
+            "choice_V1Y0hwX77": "",
+            "choice_NJ5A2w7QX": "",
+            "choice_NkoC2Dm7Q": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuRnDmQ7": "",
+            "choice_V1Y0hwX77": "",
+            "choice_NJ5A2w7QX": "",
+            "choice_NkoC2Dm7Q": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuRnDmQ7": "",
+            "choice_V1Y0hwX77": "",
+            "choice_NJ5A2w7QX": "",
+            "choice_NkoC2Dm7Q": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuRnDmQ7": "",
+            "choice_V1Y0hwX77": "",
+            "choice_NJ5A2w7QX": "",
+            "choice_NkoC2Dm7Q": ""
+        }
+    }
+}

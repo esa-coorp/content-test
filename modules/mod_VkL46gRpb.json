@@ -1,0 +1,48 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-05T14:28:57.629Z",
+            "updatedAt": "2016-10-05T14:28:57.629Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_NyfdlTZTW"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "mod_VkL46gRpb",
+        "level": 1,
+        "position": 0,
+        "timeAlloted": 20,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_V1FNpe0aZ"
+        ]
+    },
+    "locales": {
+        "fr": {
+            "skill_V1FNpe0aZ": "skill"
+        },
+        "en": {
+            "skill_V1FNpe0aZ": ""
+        },
+        "es": {
+            "skill_V1FNpe0aZ": ""
+        },
+        "cs": {
+            "skill_V1FNpe0aZ": ""
+        },
+        "da": {
+            "skill_V1FNpe0aZ": "skill"
+        },
+        "za": {
+            "skill_V1FNpe0aZ": "skill"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-29T12:12:28.598Z",
+            "updatedAt": "2017-06-29T12:12:28.598Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_V1WluTAaX7",
+        "type": "img",
+        "format": "poster",
+        "src": [
+            {
+                "filename": "filename_EkgLp6Apm7",
+                "mimeType": "",
+                "mediaUrl": "mediaUrl_41L66RT7m"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "mediaUrl_41L66RT7m": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpit-mooc-technique/poster/capture-decran-2017-05-11-a-111021-1494494077646.png",
+            "filename_EkgLp6Apm7": "capture-decran-2017-05-11-a-111021-1494494077646.png"
+        },
+        "en": {},
+        "es": {},
+        "cs": {},
+        "da": {},
+        "za": {}
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-29T12:12:28.598Z",
+            "updatedAt": "2017-06-29T12:46:28.063Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "slides": [],
+            "chapters": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "les_4ygPTRpQm",
+        "position": 0,
+        "poster": "med_V1WluTAaX7",
+        "description": "description",
+        "resource": "med_E1SDa0pX7"
+    },
+    "locales": {
+        "fr": {
+            "description": "PDF"
+        },
+        "en": {
+            "description": ""
+        },
+        "es": {
+            "description": ""
+        },
+        "cs": {
+            "description": ""
+        },
+        "da": {
+            "description": ""
+        },
+        "za": {
+            "description": ""
+        }
+    }
+}

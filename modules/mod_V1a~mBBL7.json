@@ -1,0 +1,69 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-29T09:24:52.429Z",
+            "updatedAt": "2017-07-29T09:24:52.429Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_VybffHHU7"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "mod_V1a~mBBL7",
+        "level": 1,
+        "position": 0,
+        "timeAlloted": 20,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_VkZfQHSUm",
+            "skill_NkL7XHSUQ",
+            "skill_EkA7XrHI7",
+            "skill_4km4XSB8X"
+        ]
+    },
+    "locales": {
+        "fr": {
+            "skill_VkZfQHSUm": "mundo cognita civitas, cui non certaverit alia",
+            "skill_NkL7XHSUQ": "advecticiis ita adfluere copiis et internis,",
+            "skill_EkA7XrHI7": "et Laodicia et Apamia itidemque Seleucia",
+            "skill_4km4XSB8X": "iam inde a primis auspiciis florentissimae."
+        },
+        "en": {
+            "skill_VkZfQHSUm": "",
+            "skill_NkL7XHSUQ": "",
+            "skill_EkA7XrHI7": "",
+            "skill_4km4XSB8X": ""
+        },
+        "es": {
+            "skill_VkZfQHSUm": "",
+            "skill_NkL7XHSUQ": "",
+            "skill_EkA7XrHI7": "",
+            "skill_4km4XSB8X": ""
+        },
+        "cs": {
+            "skill_VkZfQHSUm": "",
+            "skill_NkL7XHSUQ": "",
+            "skill_EkA7XrHI7": "",
+            "skill_4km4XSB8X": ""
+        },
+        "da": {
+            "skill_VkZfQHSUm": "",
+            "skill_NkL7XHSUQ": "",
+            "skill_EkA7XrHI7": "",
+            "skill_4km4XSB8X": ""
+        },
+        "za": {
+            "skill_VkZfQHSUm": "",
+            "skill_NkL7XHSUQ": "",
+            "skill_EkA7XrHI7": "",
+            "skill_4km4XSB8X": ""
+        }
+    }
+}

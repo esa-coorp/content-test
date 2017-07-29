@@ -1,0 +1,123 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T09:53:22.454Z",
+            "updatedAt": "2017-06-29T12:15:21.113Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_4kl~7RubX",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kl~7RubX.choice_VkYXQAOb7.id",
+                        "label": "choice_VkYXQAOb7",
+                        "value": "choice_VkYXQAOb7"
+                    },
+                    {
+                        "id": "sli_4kl~7RubX.choice_VkcXXAdZm.id",
+                        "label": "choice_VkcXXAdZm",
+                        "value": "choice_VkcXXAdZm"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkYXQAOb7"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Choisissez la réponse vrai.",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les valeurs vrai ou false sont considères comme des valeurs booléennes.",
+            "tips": "Nous avions une ancienne CP qui à la place d'écrire \"booléen\" écrivait \"boulet un\" !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "null": "",
+            "choice_VkYXQAOb7": "Vrai",
+            "choice_VkcXXAdZm": "Faux",
+            "clue": "C'est celle qui commence par V"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkYXQAOb7": "",
+            "choice_VkcXXAdZm": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkYXQAOb7": "",
+            "choice_VkcXXAdZm": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkYXQAOb7": "",
+            "choice_VkcXXAdZm": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkYXQAOb7": "",
+            "choice_VkcXXAdZm": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkYXQAOb7": "",
+            "choice_VkcXXAdZm": ""
+        }
+    }
+}

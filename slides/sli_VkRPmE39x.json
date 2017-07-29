@@ -1,0 +1,87 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-16T15:50:21.559Z",
+            "updatedAt": "2016-09-05T14:52:28.398Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VkRPmE39x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkRPmE39x.choice_EkQ4N43cx.id",
+                        "label": "choice_EkQ4N43cx",
+                        "value": "choice_EkQ4N43cx"
+                    },
+                    {
+                        "id": "sli_VkRPmE39x.choice_4JI4EE35l.id",
+                        "label": "choice_4JI4EE35l",
+                        "value": "choice_4JI4EE35l"
+                    },
+                    {
+                        "id": "sli_VkRPmE39x.choice_Vyv4VNnqx.id",
+                        "label": "choice_Vyv4VNnqx",
+                        "value": "choice_Vyv4VNnqx"
+                    },
+                    {
+                        "id": "sli_VkRPmE39x.choice_NJuVNVhqe.id",
+                        "label": "choice_NJuVNVhqe",
+                        "value": "choice_NJuVNVhqe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkQ4N43cx",
+                        "choice_4JI4EE35l",
+                        "choice_Vyv4VNnqx",
+                        "choice_NJuVNVhqe"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les éléments vous permettant de faire le point sur vos atouts ?",
+            "explanation": "Cliquez sur les bonnes réponses pour les déplacer dans la seconde colonne.",
+            "klf": "Pour identifier vos atouts, faites le point sur votre formation initiale, votre parcours professionnel mais aussi votre vie de tous les jours. Vous connaîtrez ainsi vos savoirs, savoir-faire et savoir-être.",
+            "tips": "En vue d'une reconversion professionnelle, vous pouvez vous faire aider en réalisant un bilan de compétences. En France, vous avez le droit d'utiliser votre congé individuel de formation pour ce faire (source : ANPE).",
+            "clue": "Pensez global.",
+            "choice_EkQ4N43cx": "Formation initiale",
+            "choice_4JI4EE35l": "Parcours professionnel",
+            "choice_Vyv4VNnqx": "Activités associatives",
+            "choice_NJuVNVhqe": "Votre place dans votre groupe d'amis"
+        },
+        "en": {
+            "header": "What factors can help you to focus on your strengths?",
+            "explanation": "Click on the correct answers to place them in the second column.",
+            "klf": "To identify your strengths, focus on your initial training, your career, but also your everyday life. This will enable you to identify your knowledge, skills and attitudes.",
+            "tips": "In order to retrain, you can get help by performing a skills assessment. In France, you have the right to use your personal leave to do this. (source: ANPE)",
+            "choice_EkQ4N43cx": "Initial training",
+            "choice_4JI4EE35l": "Professional career",
+            "choice_Vyv4VNnqx": "Community activities",
+            "choice_NJuVNVhqe": "Your place in your group of friends",
+            "clue": "Think globally."
+        }
+    }
+}

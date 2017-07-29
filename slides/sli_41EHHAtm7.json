@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-26T10:48:44.069Z",
+            "updatedAt": "2017-06-26T12:00:33.280Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyZ4M0YQ7"
+            ],
+            "status": "draft",
+            "modifiedBy": "chrisdugne",
+            "createdBy": "chrisdugne"
+        },
+        "ref": "sli_41EHHAtm7",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41EHHAtm7.choice_VJpLHRKmQ.id",
+                        "label": "choice_VJpLHRKmQ",
+                        "value": "choice_VJpLHRKmQ"
+                    },
+                    {
+                        "id": "sli_41EHHAtm7.choice_VJMPrCYmQ.id",
+                        "label": "choice_VJMPrCYmQ",
+                        "value": "choice_VJMPrCYmQ"
+                    },
+                    {
+                        "id": "sli_41EHHAtm7.choice_EJuDSRKmQ.id",
+                        "label": "choice_EJuDSRKmQ",
+                        "value": "choice_EJuDSRKmQ"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJuDSRKmQ"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de temps le fût du canon met-il pour se refroidir ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "-",
+            "tips": "-",
+            "clue": "-",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJpLHRKmQ": "8 jours",
+            "choice_VJMPrCYmQ": "Ça dépend... si y a du vent...",
+            "choice_EJuDSRKmQ": "Un certain temps",
+            "choice_NkvOHCtmm": ""
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJpLHRKmQ": "",
+            "choice_VJMPrCYmQ": "",
+            "choice_EJuDSRKmQ": "",
+            "choice_NkvOHCtmm": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJpLHRKmQ": "",
+            "choice_VJMPrCYmQ": "",
+            "choice_EJuDSRKmQ": "",
+            "choice_NkvOHCtmm": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJpLHRKmQ": "",
+            "choice_VJMPrCYmQ": "",
+            "choice_EJuDSRKmQ": "",
+            "choice_NkvOHCtmm": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJpLHRKmQ": "",
+            "choice_VJMPrCYmQ": "",
+            "choice_EJuDSRKmQ": "",
+            "choice_NkvOHCtmm": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJpLHRKmQ": "",
+            "choice_VJMPrCYmQ": "",
+            "choice_EJuDSRKmQ": "",
+            "choice_NkvOHCtmm": ""
+        }
+    }
+}

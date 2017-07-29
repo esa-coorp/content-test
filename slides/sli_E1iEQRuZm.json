@@ -1,0 +1,140 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T09:54:19.738Z",
+            "updatedAt": "2017-06-29T12:16:13.135Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_E1iEQRuZm",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1iEQRuZm.choice_4kXwQAdb7.id",
+                        "label": "choice_4kXwQAdb7",
+                        "value": "choice_4kXwQAdb7"
+                    },
+                    {
+                        "id": "sli_E1iEQRuZm.choice_VklXvQAOZX.id",
+                        "label": "choice_VklXvQAOZX",
+                        "value": "choice_VklXvQAOZX"
+                    },
+                    {
+                        "id": "sli_E1iEQRuZm.choice_EyxWSuQmX.id",
+                        "label": "choice_EyxWSuQmX",
+                        "value": "choice_EyxWSuQmX"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kXwQAdb7"
+                    ],
+                    [
+                        "choice_EyxWSuQmX"
+                    ],
+                    [
+                        "choice_4kXwQAdb7",
+                        "choice_EyxWSuQmX"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans quel mode de jeux se trouve-t-on ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Indeed, c'est Free Run, aussi appelé microlearning. Il s'agit d'un mode consommation où l'on permet d'accès direct aux chapitres sans passer par les cours.",
+            "tips": "Il y a aussi le mode classique qui s'appelle désormais Learner",
+            "clue": "Ce n'est pas le mode PURE ADAPTIVE.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kXwQAdb7": "Free Run",
+            "choice_VklXvQAOZX": "Learner",
+            "choice_EyxWSuQmX": "Microlearning"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kXwQAdb7": "",
+            "choice_VklXvQAOZX": "",
+            "choice_EyxWSuQmX": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kXwQAdb7": "",
+            "choice_VklXvQAOZX": "",
+            "choice_EyxWSuQmX": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kXwQAdb7": "",
+            "choice_VklXvQAOZX": "",
+            "choice_EyxWSuQmX": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kXwQAdb7": "",
+            "choice_VklXvQAOZX": "",
+            "choice_EyxWSuQmX": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kXwQAdb7": "",
+            "choice_VklXvQAOZX": "",
+            "choice_EyxWSuQmX": ""
+        }
+    }
+}

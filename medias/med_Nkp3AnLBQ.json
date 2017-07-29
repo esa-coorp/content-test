@@ -1,0 +1,51 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-18T09:06:43.537Z",
+            "updatedAt": "2017-07-18T09:06:43.537Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_Nkp3AnLBQ",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_EJgmaAh8r7",
+                "mimeType": "image/png",
+                "mediaUrl": "mediaUrl_EyXTR3US7",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_EJgmaAh8r7": "France.png",
+            "mediaUrl_EyXTR3US7": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/france-1500368797017.png"
+        },
+        "en": {
+            "filename_EJgmaAh8r7": "France.png",
+            "mediaUrl_EyXTR3US7": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/france-1500368797017.png"
+        },
+        "es": {
+            "filename_EJgmaAh8r7": "France.png",
+            "mediaUrl_EyXTR3US7": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/france-1500368797017.png"
+        },
+        "cs": {
+            "filename_EJgmaAh8r7": "France.png",
+            "mediaUrl_EyXTR3US7": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/france-1500368797017.png"
+        },
+        "da": {
+            "filename_EJgmaAh8r7": "France.png",
+            "mediaUrl_EyXTR3US7": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/france-1500368797017.png"
+        },
+        "za": {
+            "filename_EJgmaAh8r7": "France.png",
+            "mediaUrl_EyXTR3US7": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/france-1500368797017.png"
+        }
+    }
+}

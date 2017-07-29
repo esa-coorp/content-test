@@ -1,0 +1,46 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-29T09:24:52.430Z",
+            "updatedAt": "2017-07-29T09:24:52.430Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [
+                "mod_V1a~mBBL7"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "cha_NkCUXSHLm",
+        "name": "name",
+        "position": 0,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": false,
+        "poster": null
+    },
+    "locales": {
+        "fr": {
+            "name": "refertum mercatoribus opulentis, ubi annua sollemnitate"
+        },
+        "en": {
+            "name": ""
+        },
+        "es": {
+            "name": ""
+        },
+        "cs": {
+            "name": ""
+        },
+        "da": {
+            "name": ""
+        },
+        "za": {
+            "name": ""
+        }
+    }
+}

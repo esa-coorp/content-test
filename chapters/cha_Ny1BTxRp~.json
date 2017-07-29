@@ -1,0 +1,45 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-05T14:28:57.629Z",
+            "updatedAt": "2017-07-03T13:59:52.341Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [
+                "mod_VkL46gRpb"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "cha_Ny1BTxRp~",
+        "name": "name",
+        "position": 1,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": true
+    },
+    "locales": {
+        "fr": {
+            "name": "chapter 1"
+        },
+        "en": {
+            "name": ""
+        },
+        "es": {
+            "name": ""
+        },
+        "cs": {
+            "name": ""
+        },
+        "da": {
+            "name": "chapter 1"
+        },
+        "za": {
+            "name": "chapter 1"
+        }
+    }
+}

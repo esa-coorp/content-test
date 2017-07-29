@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-26T10:40:18.003Z",
+            "updatedAt": "2017-06-26T10:40:18.003Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyZ4M0YQ7"
+            ],
+            "status": "draft",
+            "modifiedBy": "chrisdugne",
+            "createdBy": "chrisdugne"
+        },
+        "ref": "sli_4kxXmRK77",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kxXmRK77.choice_4JgrQ0K7Q.id",
+                        "label": "choice_4JgrQ0K7Q",
+                        "value": "choice_4JgrQ0K7Q"
+                    },
+                    {
+                        "id": "sli_4kxXmRK77.choice_VkjBm0FXm.id",
+                        "label": "choice_VkjBm0FXm",
+                        "value": "choice_VkjBm0FXm"
+                    },
+                    {
+                        "id": "sli_4kxXmRK77.choice_VyW8mAK7m.id",
+                        "label": "choice_VyW8mAK7m",
+                        "value": "choice_VyW8mAK7m"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyW8mAK7m"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "plop ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "!@",
+            "tips": "!plep",
+            "clue": "plup.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JgrQ0K7Q": "plip.",
+            "choice_VkjBm0FXm": "ploup.",
+            "choice_VyW8mAK7m": "plup.",
+            "choice_V1ZDQRF7Q": ""
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JgrQ0K7Q": "",
+            "choice_VkjBm0FXm": "",
+            "choice_VyW8mAK7m": "",
+            "choice_V1ZDQRF7Q": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JgrQ0K7Q": "",
+            "choice_VkjBm0FXm": "",
+            "choice_VyW8mAK7m": "",
+            "choice_V1ZDQRF7Q": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JgrQ0K7Q": "",
+            "choice_VkjBm0FXm": "",
+            "choice_VyW8mAK7m": "",
+            "choice_V1ZDQRF7Q": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JgrQ0K7Q": "",
+            "choice_VkjBm0FXm": "",
+            "choice_VyW8mAK7m": "",
+            "choice_V1ZDQRF7Q": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JgrQ0K7Q": "",
+            "choice_VkjBm0FXm": "",
+            "choice_VyW8mAK7m": "",
+            "choice_V1ZDQRF7Q": ""
+        }
+    }
+}

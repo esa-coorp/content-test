@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T08:44:12.708Z",
+            "updatedAt": "2016-08-23T15:22:02.961Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NJnneQacx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJnneQacx.choice_4JgA6~QTqx.id",
+                        "label": "choice_4JgA6~QTqx",
+                        "value": "choice_4JgA6~QTqx",
+                        "media": "med_NkRabmT9g"
+                    },
+                    {
+                        "id": "sli_NJnneQacx.choice_EkgJA~m6qe.id",
+                        "label": "choice_EkgJA~m6qe",
+                        "value": "choice_EkgJA~m6qe",
+                        "media": "med_4kyC~ma5l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkgJA~m6qe"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Les nouveaux parents voient de grands changements dans leur taux d'activité après la naissance du premier enfant. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les femmes voient beaucoup plus de changements dans leur rythme de travail que les hommes, après la naissance du premier enfant. À leur retour de congé maternité, 17% des femmes passent à temps partiel, alors que 91% des pères n'observent aucun changement.",
+            "tips": "Après la naissance de leur premier enfant, les femmes sont 11% à changer de poste et 7% démissionnent (source : Centre d'études et de recherches sur les qualifications).",
+            "clue": "Peu de pères à temps partiel.",
+            "choice_4JgA6~QTqx": "Vrai",
+            "choice_EkgJA~m6qe": "Faux"
+        },
+        "en": {
+            "header": "New parents see big changes in their activity levels after the birth of first child. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "After the birth of their first child, women see many more changes in their work routine than men. After maternity leave, 17% of women go part-time, whereas 91% of fathers do not experience any change.",
+            "tips": "After the birth of their first child, 11% of women change positions and 7% resign. (Source: Centre for Studies and Research on Qualifications)",
+            "choice_4JgA6~QTqx": "True",
+            "choice_EkgJA~m6qe": "False",
+            "clue": "Few part-time fathers."
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-26T10:34:05.901Z",
+            "updatedAt": "2017-06-26T10:34:05.901Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [
+                "mod_VkL46gRpb"
+            ],
+            "status": "draft",
+            "modifiedBy": "chrisdugne",
+            "createdBy": "chrisdugne"
+        },
+        "ref": "cha_NyZ4M0YQ7",
+        "name": "name",
+        "position": 0,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": true,
+        "poster": null
+    },
+    "locales": {
+        "fr": {
+            "name": "Chapter 2"
+        },
+        "en": {
+            "name": ""
+        },
+        "es": {
+            "name": ""
+        },
+        "cs": {
+            "name": ""
+        },
+        "da": {
+            "name": ""
+        },
+        "za": {
+            "name": ""
+        }
+    }
+}

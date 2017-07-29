@@ -1,0 +1,51 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-18T09:04:02.841Z",
+            "updatedAt": "2017-07-18T09:04:02.841Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_NJcG0h8H7",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_NyeMmR2UrX",
+                "mimeType": "image/png",
+                "mediaUrl": "mediaUrl_V1MQAhLSX",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_NyeMmR2UrX": "google-maps.png",
+            "mediaUrl_V1MQAhLSX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/google-maps-1500368636521.png"
+        },
+        "en": {
+            "filename_NyeMmR2UrX": "google-maps.png",
+            "mediaUrl_V1MQAhLSX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/google-maps-1500368636521.png"
+        },
+        "es": {
+            "filename_NyeMmR2UrX": "google-maps.png",
+            "mediaUrl_V1MQAhLSX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/google-maps-1500368636521.png"
+        },
+        "cs": {
+            "filename_NyeMmR2UrX": "google-maps.png",
+            "mediaUrl_V1MQAhLSX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/google-maps-1500368636521.png"
+        },
+        "da": {
+            "filename_NyeMmR2UrX": "google-maps.png",
+            "mediaUrl_V1MQAhLSX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/google-maps-1500368636521.png"
+        },
+        "za": {
+            "filename_NyeMmR2UrX": "google-maps.png",
+            "mediaUrl_V1MQAhLSX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/google-maps-1500368636521.png"
+        }
+    }
+}

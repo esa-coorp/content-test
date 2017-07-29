@@ -1,0 +1,42 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-05T14:30:53.398Z",
+            "updatedAt": "2016-10-05T14:30:53.398Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_Nynjpe06Z",
+        "type": "pdf",
+        "src": [
+            {
+                "filename": "filename_Vyx9h6xC6~",
+                "mimeType": "application/pdf",
+                "mediaUrl": "mediaUrl_4y9naxA6b",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_Vyx9h6xC6~": "Bulletin individuel d'adhésion.pdf",
+            "mediaUrl_4y9naxA6b": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com%2Fcontent%2FCoorpAcademy%2Fcontent%2FcockpitRecette-joan%2Fraw/bulletin-individuel-dadhesion-1475677849513.pdf"
+        },
+        "en": {},
+        "es": {},
+        "cs": {},
+        "da": {
+            "filename_Vyx9h6xC6~": "Bulletin individuel d'adhésion.pdf",
+            "mediaUrl_4y9naxA6b": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com%2Fcontent%2FCoorpAcademy%2Fcontent%2FcockpitRecette-joan%2Fraw/bulletin-individuel-dadhesion-1475677849513.pdf"
+        },
+        "za": {
+            "filename_Vyx9h6xC6~": "Bulletin individuel d'adhésion.pdf",
+            "mediaUrl_4y9naxA6b": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com%2Fcontent%2FCoorpAcademy%2Fcontent%2FcockpitRecette-joan%2Fraw/bulletin-individuel-dadhesion-1475677849513.pdf"
+        }
+    }
+}

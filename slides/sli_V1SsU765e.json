@@ -1,0 +1,88 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T09:07:57.946Z",
+            "updatedAt": "2016-09-05T15:08:25.861Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V1SsU765e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel39468",
+                        "label": "label_VJuPwm6qe",
+                        "items": [
+                            {
+                                "text": "choice_NJxODPX6qe",
+                                "value": "choice_NJxODPX6qe"
+                            },
+                            {
+                                "text": "choice_4kYwvQTql",
+                                "value": "choice_4kYwvQTql"
+                            },
+                            {
+                                "text": "choice_415vvXT9g",
+                                "value": "choice_415vvXT9g"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel39468",
+                        "answers": [
+                            "choice_4kYwvQTql"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel moyen d'annoncer sa grossesse à son employeur permet de se protéger au mieux ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le mieux est d'annoncer rapidement sa grossesse à ses responsables pour qu'ils ne l'apprennent pas par des bruits de couloir. Cela se fait oralement mais aussi par e-mail, pour garder une trace écrite. L'idéal est d'envoyer une lettre recommandée avec accusé de réception, avec, si possible, un certificat ainsi que la date probable de l'accouchement.",
+            "tips": "Si une femme subit un licenciement sans que son employeur ne soit au courant de sa grossesse, il peut être annulé grâce à l'envoi d'un certificat médical sous 15 jours.",
+            "template": "{{sel39468}}",
+            "clue": "Il faut avoir une trace écrite.",
+            "label_VJuPwm6qe": " ",
+            "choice_NJxODPX6qe": "Par oral devant témoins",
+            "choice_4kYwvQTql": "Par lettre recommandée",
+            "choice_415vvXT9g": "Par mail"
+        },
+        "en": {
+            "header": "How should you announce your pregnancy to your employer to ensure the best protection?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "It is best to announce your pregnancy to your managers so they to do not learn through rumours. This can be done orally but also by e-mail, to provide a written record. Ideally a registered letter with acknowledgement of receipt should be sent and, if possible, a certificate with the probable due date.",
+            "tips": "If a woman undergoes a dismissal without the employer being aware of her pregnancy, it can be cancelled by sending a medical certificate within 15 days.",
+            "template": "{{sel39468}}",
+            "label_VJuPwm6qe": " ",
+            "choice_NJxODPX6qe": "Verbally in front of witnesses",
+            "choice_4kYwvQTql": "By registered letter",
+            "choice_415vvXT9g": "By mail",
+            "clue": "You must have a written record."
+        }
+    }
+}

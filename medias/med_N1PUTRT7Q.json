@@ -1,0 +1,36 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-29T12:12:28.597Z",
+            "updatedAt": "2017-06-29T12:12:28.597Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_N1PUTRT7Q",
+        "type": "img",
+        "format": "poster",
+        "src": [
+            {
+                "filename": "filename_V1gCIp06X7",
+                "mimeType": "",
+                "mediaUrl": "mediaUrl_N1A8pRTQQ"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "mediaUrl_N1A8pRTQQ": "//static.coorpacademy.com/content/up/fr/medias/img/poster/miniature_bleue_up.jpg",
+            "filename_V1gCIp06X7": "miniature_bleue_up.jpg"
+        },
+        "en": {},
+        "es": {},
+        "cs": {},
+        "da": {},
+        "za": {}
+    }
+}

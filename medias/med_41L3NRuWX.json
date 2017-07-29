@@ -1,0 +1,36 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T10:00:23.222Z",
+            "updatedAt": "2017-06-01T10:00:23.222Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_41L3NRuWX",
+        "type": "pdf",
+        "src": [
+            {
+                "filename": "filename_EJljTVCu~7",
+                "mimeType": "application/pdf",
+                "mediaUrl": "mediaUrl_Nyoa4C-bm",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_EJljTVCu~7": "Hierachie-Contenu.pdf",
+            "mediaUrl_Nyoa4C-bm": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com%2Fcontent%2FCoorpAcademy%2Fcontent%2FcockpitRecette-joan%2Fraw/hierachie-contenu-1496311207505.pdf"
+        },
+        "en": {},
+        "es": {},
+        "cs": {},
+        "da": {},
+        "za": {}
+    }
+}

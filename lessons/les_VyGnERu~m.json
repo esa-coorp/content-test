@@ -1,0 +1,42 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T10:00:23.221Z",
+            "updatedAt": "2017-06-29T12:12:28.595Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "slides": [],
+            "chapters": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "les_VyGnERu~m",
+        "position": 0,
+        "poster": null,
+        "description": "description",
+        "resource": "med_41L3NRuWX"
+    },
+    "locales": {
+        "fr": {
+            "description": "Hierarchie"
+        },
+        "en": {
+            "description": ""
+        },
+        "es": {
+            "description": ""
+        },
+        "cs": {
+            "description": ""
+        },
+        "da": {
+            "description": ""
+        },
+        "za": {
+            "description": ""
+        }
+    }
+}

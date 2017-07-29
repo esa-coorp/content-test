@@ -1,0 +1,136 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T20:09:08.080Z",
+            "updatedAt": "2017-07-27T20:09:08.080Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "sli_Vkj984XI7",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_Vkj984XI7.choice_NyGkP4mIQ.id",
+                        "label": "choice_NyGkP4mIQ",
+                        "value": "choice_NyGkP4mIQ"
+                    },
+                    {
+                        "id": "sli_Vkj984XI7.choice_4yO1w4mLm.id",
+                        "label": "choice_4yO1w4mLm",
+                        "value": "choice_4yO1w4mLm"
+                    },
+                    {
+                        "id": "sli_Vkj984XI7.choice_NyjJPNm8Q.id",
+                        "label": "choice_NyjJPNm8Q",
+                        "value": "choice_NyjJPNm8Q"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyGkP4mIQ",
+                        "choice_NyjJPNm8Q",
+                        "choice_4yO1w4mLm"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Ranger du plus petit au plus grand",
+            "explanation": "Cliquez sur les bonnes réponses pour les déplacer dans la seconde colonne.",
+            "klf": "Étymologie discutée. Certains y voient une déformation de tirer. D’autres[1] pensent qu’il serait issu du bas latin tritare, « broyer », lui-même issu de tritum, supin du verbe terere, « frotter », en particulier terere granum, « battre le grain », « frotter pour séparer le grain de l’épi ».",
+            "tips": "Étymologie discutée. Certains y voient une déformation de tirer. D’autres[1] pensent qu’il serait issu du bas latin tritare, « broyer », lui-même issu de tritum, supin du verbe terere, « frotter », en particulier terere granum, « battre le grain », « frotter pour séparer le grain de l’épi ».",
+            "clue": "2 >1",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyGkP4mIQ": "1 000 000",
+            "choice_4yO1w4mLm": "50 000",
+            "choice_NyjJPNm8Q": "400 000"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Click on the correct answers to place them in the second column.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyGkP4mIQ": "",
+            "choice_4yO1w4mLm": "",
+            "choice_NyjJPNm8Q": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Presiona las respuestas correctas para colocarlas en la segunda columna.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyGkP4mIQ": "",
+            "choice_4yO1w4mLm": "",
+            "choice_NyjJPNm8Q": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyGkP4mIQ": "",
+            "choice_4yO1w4mLm": "",
+            "choice_NyjJPNm8Q": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyGkP4mIQ": "",
+            "choice_4yO1w4mLm": "",
+            "choice_NyjJPNm8Q": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyGkP4mIQ": "",
+            "choice_4yO1w4mLm": "",
+            "choice_NyjJPNm8Q": ""
+        }
+    }
+}

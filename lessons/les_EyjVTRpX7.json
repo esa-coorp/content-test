@@ -1,0 +1,60 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-29T12:12:28.597Z",
+            "updatedAt": "2017-07-27T20:23:57.962Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "slides": [
+                "sli_Vy88~R-bX",
+                "sli_VkcAWR-ZQ",
+                "sli_4kl~7RubX",
+                "sli_E1iEQRuZm",
+                "sli_EyinLfF~X",
+                "sli_4ymMuMFbA",
+                "sli_4ymMuMFbB",
+                "sli_4ymMuMFb7",
+                "sli_4ymMuMFb9",
+                "sli_4ymMuMFb8",
+                "sli_VktuuzFW7",
+                "sli_NJ862PX7Q",
+                "sli_41GXTiG8X",
+                "sli_411QXN7U7",
+                "sli_41JSrE787",
+                "sli_Vkj984XI7",
+                "sli_N159vNmUX"
+            ],
+            "chapters": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "jomaora"
+        },
+        "ref": "les_EyjVTRpX7",
+        "position": 0,
+        "poster": "med_N1PUTRT7Q",
+        "description": "description",
+        "resource": "med_NkiB6ApXQ"
+    },
+    "locales": {
+        "fr": {
+            "description": "Universal Searches"
+        },
+        "en": {
+            "description": ""
+        },
+        "es": {
+            "description": ""
+        },
+        "cs": {
+            "description": ""
+        },
+        "da": {
+            "description": ""
+        },
+        "za": {
+            "description": ""
+        }
+    }
+}

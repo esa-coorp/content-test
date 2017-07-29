@@ -1,0 +1,251 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T19:58:46.801Z",
+            "updatedAt": "2017-07-27T21:17:23.626Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "sli_411QXN7U7",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel81897",
+                        "label": "label_EJUV7VQU7",
+                        "items": [
+                            {
+                                "text": "choice_E1eLEXNX87",
+                                "value": "choice_E1eLEXNX87"
+                            },
+                            {
+                                "text": "choice_4yZIVX4mUQ",
+                                "value": "choice_4yZIVX4mUQ"
+                            },
+                            {
+                                "text": "choice_EygSm4XLm",
+                                "value": "choice_EygSm4XLm"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel10037",
+                        "label": "label_4klU7NXIQ",
+                        "items": [
+                            {
+                                "text": "choice_4JggU7N7UX",
+                                "value": "choice_4JggU7N7UX"
+                            },
+                            {
+                                "text": "choice_NkWlIQ4QUm",
+                                "value": "choice_NkWlIQ4QUm"
+                            },
+                            {
+                                "text": "choice_V1fD7Vm8m",
+                                "value": "choice_V1fD7Vm8m"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel87292",
+                        "label": "label_EJ8umNXIX",
+                        "items": [
+                            {
+                                "text": "choice_NylIdmEQLQ",
+                                "value": "choice_NylIdmEQLQ"
+                            },
+                            {
+                                "text": "choice_VkbLOm47Um",
+                                "value": "choice_VkbLOm47Um"
+                            },
+                            {
+                                "text": "choice_4y0dXNXIX",
+                                "value": "choice_4y0dXNXIX"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel81897",
+                        "answers": [
+                            "choice_4yZIVX4mUQ"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel10037",
+                        "answers": [
+                            "choice_NkWlIQ4QUm"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel87292",
+                        "answers": [
+                            "choice_4y0dXNXIX"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "42?",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "42 éclipses de soleil et 42 de lune durant un saros ;",
+            "tips": "42 (quarante-deux) est l’entier naturel qui suit 41 et qui précède 43.",
+            "clue": "42",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81897}} x {{sel10037}} - {{sel87292}} = 42",
+            "label_EJUV7VQU7": " ",
+            "choice_E1eLEXNX87": "10",
+            "choice_4yZIVX4mUQ": "20",
+            "choice_EygSm4XLm": "30",
+            "label_4klU7NXIQ": " ",
+            "choice_4JggU7N7UX": "1",
+            "choice_NkWlIQ4QUm": "3",
+            "choice_V1fD7Vm8m": "7",
+            "label_EJ8umNXIX": " ",
+            "choice_NylIdmEQLQ": "11",
+            "choice_VkbLOm47Um": "15",
+            "choice_4y0dXNXIX": "18"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81897}} {{sel10037}} {{sel87292}}",
+            "label_EJUV7VQU7": " ",
+            "choice_E1eLEXNX87": "",
+            "choice_4yZIVX4mUQ": "",
+            "choice_EygSm4XLm": "",
+            "label_4klU7NXIQ": " ",
+            "choice_4JggU7N7UX": "",
+            "choice_NkWlIQ4QUm": "",
+            "choice_V1fD7Vm8m": "",
+            "label_EJ8umNXIX": " ",
+            "choice_NylIdmEQLQ": "",
+            "choice_VkbLOm47Um": "",
+            "choice_4y0dXNXIX": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Escribe su respuesta o selecciona la respuesta correcta en el menú(s) desplegable.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81897}} {{sel10037}} {{sel87292}}",
+            "label_EJUV7VQU7": " ",
+            "choice_E1eLEXNX87": "",
+            "choice_4yZIVX4mUQ": "",
+            "choice_EygSm4XLm": "",
+            "label_4klU7NXIQ": " ",
+            "choice_4JggU7N7UX": "",
+            "choice_NkWlIQ4QUm": "",
+            "choice_V1fD7Vm8m": "",
+            "label_EJ8umNXIX": " ",
+            "choice_NylIdmEQLQ": "",
+            "choice_VkbLOm47Um": "",
+            "choice_4y0dXNXIX": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": " ",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81897}} {{sel10037}} {{sel87292}}",
+            "label_EJUV7VQU7": " ",
+            "choice_E1eLEXNX87": "",
+            "choice_4yZIVX4mUQ": "",
+            "choice_EygSm4XLm": "",
+            "label_4klU7NXIQ": " ",
+            "choice_4JggU7N7UX": "",
+            "choice_NkWlIQ4QUm": "",
+            "choice_V1fD7Vm8m": "",
+            "label_EJ8umNXIX": " ",
+            "choice_NylIdmEQLQ": "",
+            "choice_VkbLOm47Um": "",
+            "choice_4y0dXNXIX": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": " ",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81897}} {{sel10037}} {{sel87292}}",
+            "label_EJUV7VQU7": " ",
+            "choice_E1eLEXNX87": "",
+            "choice_4yZIVX4mUQ": "",
+            "choice_EygSm4XLm": "",
+            "label_4klU7NXIQ": " ",
+            "choice_4JggU7N7UX": "",
+            "choice_NkWlIQ4QUm": "",
+            "choice_V1fD7Vm8m": "",
+            "label_EJ8umNXIX": " ",
+            "choice_NylIdmEQLQ": "",
+            "choice_VkbLOm47Um": "",
+            "choice_4y0dXNXIX": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": " ",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81897}} {{sel10037}} {{sel87292}}",
+            "label_EJUV7VQU7": " ",
+            "choice_E1eLEXNX87": "",
+            "choice_4yZIVX4mUQ": "",
+            "choice_EygSm4XLm": "",
+            "label_4klU7NXIQ": " ",
+            "choice_4JggU7N7UX": "",
+            "choice_NkWlIQ4QUm": "",
+            "choice_V1fD7Vm8m": "",
+            "label_EJ8umNXIX": " ",
+            "choice_NylIdmEQLQ": "",
+            "choice_VkbLOm47Um": "",
+            "choice_4y0dXNXIX": ""
+        }
+    }
+}
