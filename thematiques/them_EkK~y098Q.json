@@ -1,0 +1,29 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-08-02T14:21:31.724Z",
+            "updatedAt": "2017-08-02T14:21:31.724Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "them_EkK~y098Q",
+        "type": "theme",
+        "name": "name",
+        "description": "description"
+    },
+    "locales": {
+        "en": {
+            "name": "",
+            "description": ""
+        },
+        "fr": {
+            "name": "theme n°3",
+            "description": ""
+        }
+    }
+}
