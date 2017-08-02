@@ -1,0 +1,61 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-09-26T07:44:13.967Z",
+            "updatedAt": "2017-08-02T14:21:05.828Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "jomaora"
+        },
+        "ref": "dis_NyfdlTZTW",
+        "name": "name",
+        "position": 0,
+        "cover": {
+            "popularity": 1,
+            "coverDescription": "coverDescription",
+            "resource": null,
+            "poster": "med_EJMmpl0pb",
+            "moreInfos": []
+        },
+        "courses": [],
+        "thematiques": [
+            "ALL",
+            "them_EJhkkRq8X"
+        ],
+        "partners": [
+            "part_Vkw6tttRf"
+        ],
+        "conditions": [],
+        "partnershipType": "coorp"
+    },
+    "locales": {
+        "fr": {
+            "name": "Demo Free Run",
+            "coverDescription": "Course de test pour free run"
+        },
+        "en": {
+            "name": "",
+            "coverDescription": ""
+        },
+        "es": {
+            "name": "Nuevo curso",
+            "coverDescription": "New course"
+        },
+        "cs": {
+            "name": "New course",
+            "coverDescription": "New course"
+        },
+        "da": {
+            "name": "New course",
+            "coverDescription": "New course"
+        },
+        "za": {
+            "name": "New course",
+            "coverDescription": "New course"
+        }
+    }
+}

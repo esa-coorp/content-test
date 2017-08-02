@@ -1,0 +1,124 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T14:50:25.056Z",
+            "updatedAt": "2017-07-18T09:04:02.840Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_VktuuzFW7",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_NJcG0h8H7"
+            ],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VktuuzFW7.choice_Vyt9uGt~Q.id",
+                        "label": "choice_Vyt9uGt~Q",
+                        "value": "choice_Vyt9uGt~Q"
+                    },
+                    {
+                        "id": "sli_VktuuzFW7.choice_E1cc-GFZQ.id",
+                        "label": "choice_E1cc-GFZQ",
+                        "value": "choice_E1cc-GFZQ"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1cc-GFZQ"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Où se trouve Coorpacademy France ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Nous avons déménagé. Après d'avoir passé nos premiers années rue d'Aboukir dans le 2ème arrondissement, on a pris place des nouveaux locaux Boulevard Poissonnière.",
+            "tips": "On a même un douche dans les nouveaux locaux !",
+            "clue": "En face du Rex",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyt9uGt~Q": "Rue d'Aboukir",
+            "choice_E1cc-GFZQ": "Boulevard Poissonnière"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyt9uGt~Q": "",
+            "choice_E1cc-GFZQ": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyt9uGt~Q": "",
+            "choice_E1cc-GFZQ": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyt9uGt~Q": "",
+            "choice_E1cc-GFZQ": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyt9uGt~Q": "",
+            "choice_E1cc-GFZQ": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyt9uGt~Q": "",
+            "choice_E1cc-GFZQ": ""
+        }
+    }
+}

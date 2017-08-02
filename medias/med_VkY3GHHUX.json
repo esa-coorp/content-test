@@ -1,0 +1,51 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-29T09:24:52.428Z",
+            "updatedAt": "2017-07-29T09:24:52.428Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "med_VkY3GHHUX",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_41lIpzrSUm",
+                "mimeType": "image/jpeg",
+                "mediaUrl": "mediaUrl_EJ8TMrB8X",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_41lIpzrSUm": "Infographie-comportements-travail-dans-monde-F.jpg",
+            "mediaUrl_EJ8TMrB8X": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpit-internal-demo/default/infographie-comportements-travail-dans-monde-f-1501320099115.jpg"
+        },
+        "en": {
+            "filename_41lIpzrSUm": "Infographie-comportements-travail-dans-monde-F.jpg",
+            "mediaUrl_EJ8TMrB8X": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpit-internal-demo/default/infographie-comportements-travail-dans-monde-f-1501320099115.jpg"
+        },
+        "es": {
+            "filename_41lIpzrSUm": "Infographie-comportements-travail-dans-monde-F.jpg",
+            "mediaUrl_EJ8TMrB8X": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpit-internal-demo/default/infographie-comportements-travail-dans-monde-f-1501320099115.jpg"
+        },
+        "cs": {
+            "filename_41lIpzrSUm": "Infographie-comportements-travail-dans-monde-F.jpg",
+            "mediaUrl_EJ8TMrB8X": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpit-internal-demo/default/infographie-comportements-travail-dans-monde-f-1501320099115.jpg"
+        },
+        "da": {
+            "filename_41lIpzrSUm": "Infographie-comportements-travail-dans-monde-F.jpg",
+            "mediaUrl_EJ8TMrB8X": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpit-internal-demo/default/infographie-comportements-travail-dans-monde-f-1501320099115.jpg"
+        },
+        "za": {
+            "filename_41lIpzrSUm": "Infographie-comportements-travail-dans-monde-F.jpg",
+            "mediaUrl_EJ8TMrB8X": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpit-internal-demo/default/infographie-comportements-travail-dans-monde-f-1501320099115.jpg"
+        }
+    }
+}

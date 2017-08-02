@@ -1,0 +1,44 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-05T14:30:53.397Z",
+            "updatedAt": "2016-10-05T14:30:53.397Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "slides": [
+                "sli_41itTeRT~"
+            ],
+            "chapters": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "les_EkEipxATZ",
+        "position": 0,
+        "poster": null,
+        "description": "description",
+        "resource": "med_Nynjpe06Z"
+    },
+    "locales": {
+        "fr": {
+            "description": "leçon"
+        },
+        "en": {
+            "description": ""
+        },
+        "es": {
+            "description": ""
+        },
+        "cs": {
+            "description": ""
+        },
+        "da": {
+            "description": "leçon"
+        },
+        "za": {
+            "description": "leçon"
+        }
+    }
+}

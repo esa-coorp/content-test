@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T14:48:36.977Z",
+            "updatedAt": "2017-06-21T14:57:33.680Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_4ymMuMFb8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "label": "label",
+                "placeholder": "placeholder",
+                "id": "sli_4ymMuMFb8.id",
+                "answers": [
+                    "choice_02",
+                    "choice_EydvuOmmQ"
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel réseau social se distingue par ses messages instantanés limités à 140 signes ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Sur Twitter, l’outil de référence du microblogging, les messages sont limités à 140 signes.",
+            "tips": "Twitter compterait plus de 20 millions de faux comptes.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_01": "Saisissez_votre_reponse",
+            "choice_02": "Twitter",
+            "choice_03": "twitter",
+            "choice_04": "TWITTER",
+            "clue": "Son logo est un petit oiseau bleu.",
+            "choice_EydvuOmmQ": "Pajarito"
+        },
+        "en": {
+            "header": "Which social network stands out from the rest with its instant messages limited to 140 characters?",
+            "explanation": "Type your answer.",
+            "klf": "Two out of three users access Twitter via their mobile.",
+            "tips": "On Twitter, the leading name in microblogging, messages are limited to 140 chararcters.",
+            "label": "",
+            "placeholder": " ",
+            "choice_01": "Type_your_answer",
+            "choice_02": "Twitter",
+            "choice_03": "twitter",
+            "choice_04": "TWITTER",
+            "clue": "Its logo is a small blue bird.",
+            "choice_EydvuOmmQ": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": "",
+            "choice_EydvuOmmQ": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": "",
+            "choice_EydvuOmmQ": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": "",
+            "choice_EydvuOmmQ": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": "",
+            "choice_EydvuOmmQ": ""
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-26T10:50:40.367Z",
+            "updatedAt": "2017-06-26T10:50:40.367Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyZ4M0YQ7"
+            ],
+            "status": "draft",
+            "modifiedBy": "chrisdugne",
+            "createdBy": "chrisdugne"
+        },
+        "ref": "sli_41sTSRYXQ",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41sTSRYXQ.choice_4kwg80KmQ.id",
+                        "label": "choice_4kwg80KmQ",
+                        "value": "choice_4kwg80KmQ"
+                    },
+                    {
+                        "id": "sli_41sTSRYXQ.choice_Eysx8RYXQ.id",
+                        "label": "choice_Eysx8RYXQ",
+                        "value": "choice_Eysx8RYXQ"
+                    },
+                    {
+                        "id": "sli_41sTSRYXQ.choice_EkJ~UCtQ7.id",
+                        "label": "choice_EkJ~UCtQ7",
+                        "value": "choice_EkJ~UCtQ7"
+                    },
+                    {
+                        "id": "sli_41sTSRYXQ.choice_Nk4ZI0tXX.id",
+                        "label": "choice_Nk4ZI0tXX",
+                        "value": "choice_Nk4ZI0tXX"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkJ~UCtQ7",
+                        "choice_Eysx8RYXQ",
+                        "choice_4kwg80KmQ"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de fois Chuck Norris a t-il compté jusqu'à l'infini ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "-",
+            "tips": "-",
+            "clue": "-",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kwg80KmQ": "2 fois",
+            "choice_Eysx8RYXQ": "3 fois",
+            "choice_EkJ~UCtQ7": "10 fois",
+            "choice_Nk4ZI0tXX": "jamais",
+            "choice_EJd~LAKQQ": ""
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kwg80KmQ": "",
+            "choice_Eysx8RYXQ": "",
+            "choice_EkJ~UCtQ7": "",
+            "choice_Nk4ZI0tXX": "",
+            "choice_EJd~LAKQQ": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kwg80KmQ": "",
+            "choice_Eysx8RYXQ": "",
+            "choice_EkJ~UCtQ7": "",
+            "choice_Nk4ZI0tXX": "",
+            "choice_EJd~LAKQQ": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kwg80KmQ": "",
+            "choice_Eysx8RYXQ": "",
+            "choice_EkJ~UCtQ7": "",
+            "choice_Nk4ZI0tXX": "",
+            "choice_EJd~LAKQQ": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kwg80KmQ": "",
+            "choice_Eysx8RYXQ": "",
+            "choice_EkJ~UCtQ7": "",
+            "choice_Nk4ZI0tXX": "",
+            "choice_EJd~LAKQQ": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kwg80KmQ": "",
+            "choice_Eysx8RYXQ": "",
+            "choice_EkJ~UCtQ7": "",
+            "choice_Nk4ZI0tXX": "",
+            "choice_EJd~LAKQQ": ""
+        }
+    }
+}

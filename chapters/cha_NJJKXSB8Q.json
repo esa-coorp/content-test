@@ -1,0 +1,46 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-29T09:24:52.431Z",
+            "updatedAt": "2017-07-29T09:24:52.431Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [
+                "mod_V1a~mBBL7"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "cha_NJJKXSB8Q",
+        "name": "name",
+        "position": 0,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": false,
+        "poster": null
+    },
+    "locales": {
+        "fr": {
+            "name": "quae Indi mittunt et Seres aliaque plurima vehi terra marique consueta."
+        },
+        "en": {
+            "name": ""
+        },
+        "es": {
+            "name": ""
+        },
+        "cs": {
+            "name": ""
+        },
+        "da": {
+            "name": ""
+        },
+        "za": {
+            "name": ""
+        }
+    }
+}

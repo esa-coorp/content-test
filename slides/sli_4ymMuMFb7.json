@@ -1,0 +1,122 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T14:48:36.977Z",
+            "updatedAt": "2017-06-29T14:42:15.260Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_4ymMuMFb7",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4ymMuMFb7.choice_VJaHdMK~7.id",
+                        "label": "choice_VJaHdMK~7",
+                        "value": "choice_VJaHdMK~7"
+                    },
+                    {
+                        "id": "sli_4ymMuMFb7.choice_NkfU-MtbX.id",
+                        "label": "choice_NkfU-MtbX",
+                        "value": "choice_NkfU-MtbX"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJaHdMK~7"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la capitale de la France ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Paris est aussi la capitale de la région d'Île de France.",
+            "tips": "Paris n'a pas toujours été la capitale du pays. Tours par exemple l'a été pendant 3 jours en 1940, ainsi que Bordeaux pendant 15 jours, avant d'aller à Vichy.",
+            "clue": "C'est pas Versailles",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "C'est Paris !",
+            "choice_NkfU-MtbX": "Ce n'est pas Bogota !"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        }
+    }
+}

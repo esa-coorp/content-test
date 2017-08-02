@@ -1,0 +1,51 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-05T14:28:57.628Z",
+            "updatedAt": "2017-06-01T09:55:04.884Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_EJMmpl0pb",
+        "type": "img",
+        "format": "cover",
+        "src": [
+            {
+                "filename": "filename_NkeR7Tg0pZ",
+                "mediaUrl": "mediaUrl_NyCXpxCpZ",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_NkeR7Tg0pZ": "1931716-40629814-640-360.jpg",
+            "mediaUrl_NyCXpxCpZ": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/poster/1931716-40629814-640-360-1496310886550.jpg"
+        },
+        "en": {
+            "filename_NkeR7Tg0pZ": "animals-q-c-149-149-1.jpg",
+            "mediaUrl_NyCXpxCpZ": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/cover/animals-q-c-149-149-1-1475677709455.jpg"
+        },
+        "es": {
+            "filename_NkeR7Tg0pZ": "animals-q-c-149-149-1.jpg",
+            "mediaUrl_NyCXpxCpZ": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/cover/animals-q-c-149-149-1-1475677709455.jpg"
+        },
+        "cs": {
+            "filename_NkeR7Tg0pZ": "animals-q-c-149-149-1.jpg",
+            "mediaUrl_NyCXpxCpZ": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/cover/animals-q-c-149-149-1-1475677709455.jpg"
+        },
+        "da": {
+            "filename_NkeR7Tg0pZ": "animals-q-c-149-149-1.jpg",
+            "mediaUrl_NyCXpxCpZ": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/cover/animals-q-c-149-149-1-1475677709455.jpg"
+        },
+        "za": {
+            "filename_NkeR7Tg0pZ": "animals-q-c-149-149-1.jpg",
+            "mediaUrl_NyCXpxCpZ": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/cover/animals-q-c-149-149-1-1475677709455.jpg"
+        }
+    }
+}

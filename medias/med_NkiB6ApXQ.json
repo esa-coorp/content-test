@@ -1,0 +1,44 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-29T12:12:28.597Z",
+            "updatedAt": "2017-06-29T12:12:28.597Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_NkiB6ApXQ",
+        "type": "video",
+        "videoProvider": "vimeo",
+        "src": [
+            {
+                "mimeType": "application/vimeo",
+                "videoId": "videoId_EkWsBTR6m7"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "videoId_EkWsBTR6m7": "191200830"
+        },
+        "en": {
+            "videoId_EkWsBTR6m7": ""
+        },
+        "es": {
+            "videoId_EkWsBTR6m7": ""
+        },
+        "cs": {
+            "videoId_EkWsBTR6m7": ""
+        },
+        "da": {
+            "videoId_EkWsBTR6m7": ""
+        },
+        "za": {
+            "videoId_EkWsBTR6m7": ""
+        }
+    }
+}

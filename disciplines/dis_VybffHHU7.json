@@ -1,0 +1,82 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-29T09:24:52.426Z",
+            "updatedAt": "2017-08-02T14:21:31.723Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "dis_VybffHHU7",
+        "name": "name",
+        "partnershipType": "coorp",
+        "position": 0,
+        "hidden": false,
+        "cover": {
+            "popularity": 4,
+            "coverDescription": "coverDescription",
+            "resource": null,
+            "poster": "med_VkY3GHHUX",
+            "moreInfos": [
+                "inf_VyKTGrSLX",
+                "inf_VybCzBBI7",
+                "inf_N1OJQrSLX"
+            ]
+        },
+        "courses": [],
+        "thematiques": [
+            "ALL",
+            "them_EkK~y098Q"
+        ],
+        "partners": [],
+        "conditions": []
+    },
+    "locales": {
+        "fr": {
+            "name": "discipline1",
+            "coverDescription": "Iamque non umbratis fallaciis res agebatur, sed qua palatium est extra muros, armatis omne circumdedit. ingressusque obscuro iam die, ablatis regiis indumentis Caesarem tunica texit et paludamento communi, eum post haec nihil passurum velut mandato principis iurandi crebritate confirmans et statim inquit exsurge et inopinum carpento privato inpositum ad Histriam duxit prope oppidum Polam, ubi quondam peremptum Constantini filium accepimus Crispum.",
+            "inf_VyKTGrSLX": "Dein Syria per speciosam",
+            "inf_VybCzBBI7": "interpatet diffusa planitiem",
+            "inf_N1OJQrSLX": "hanc nobilitat Antiochia"
+        },
+        "en": {
+            "name": "",
+            "coverDescription": "",
+            "inf_VyKTGrSLX": "",
+            "inf_VybCzBBI7": "",
+            "inf_N1OJQrSLX": ""
+        },
+        "es": {
+            "name": "",
+            "coverDescription": "",
+            "inf_VyKTGrSLX": "",
+            "inf_VybCzBBI7": "",
+            "inf_N1OJQrSLX": ""
+        },
+        "cs": {
+            "name": "",
+            "coverDescription": "",
+            "inf_VyKTGrSLX": "",
+            "inf_VybCzBBI7": "",
+            "inf_N1OJQrSLX": ""
+        },
+        "da": {
+            "name": "",
+            "coverDescription": "",
+            "inf_VyKTGrSLX": "",
+            "inf_VybCzBBI7": "",
+            "inf_N1OJQrSLX": ""
+        },
+        "za": {
+            "name": "",
+            "coverDescription": "",
+            "inf_VyKTGrSLX": "",
+            "inf_VybCzBBI7": "",
+            "inf_N1OJQrSLX": ""
+        }
+    }
+}

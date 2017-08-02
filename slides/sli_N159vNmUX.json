@@ -1,0 +1,146 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T20:13:47.303Z",
+            "updatedAt": "2017-07-27T20:13:47.303Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "sli_N159vNmUX",
+        "position": null,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N159vNmUX.choice_4y0WdVXLQ.id",
+                        "label": "choice_4y0WdVXLQ",
+                        "value": "choice_4y0WdVXLQ"
+                    },
+                    {
+                        "id": "sli_N159vNmUX.choice_NkDG-VmLX.id",
+                        "label": "choice_NkDG-VmLX",
+                        "value": "choice_NkDG-VmLX"
+                    },
+                    {
+                        "id": "sli_N159vNmUX.choice_E1cz-Nm8X.id",
+                        "label": "choice_E1cz-Nm8X",
+                        "value": "choice_E1cz-Nm8X"
+                    },
+                    {
+                        "id": "sli_N159vNmUX.choice_4kZQOEQIm.id",
+                        "label": "choice_4kZQOEQIm",
+                        "value": "choice_4kZQOEQIm"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkDG-VmLX",
+                        "choice_E1cz-Nm8X"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qui est dans l'équipe \" Superman \"?",
+            "explanation": "Cliquez sur les bonnes réponses pour les déplacer dans la seconde colonne.",
+            "klf": "Superman est un super-héros de bande dessinée américaine appartenant au monde imaginaire de l’Univers DC. Ce personnage de fiction est considéré comme une icône culturelle américaine",
+            "tips": "Créé en janvier 1933 par le scénariste américain Jerry Siegel et le dessinateur canadien Joe Shuster tandis qu’ils habitaient tous deux à Cleveland, le personnage fut vendu à Detective Comics. Il apparaît pour la première fois dans un Action Comics en juin 1938. Le personnage est ensuite repris dans plusieurs pièces radiophoniques, émissions de télévision, films, comic strips et jeux vidéo. Au vu du succès et de la notoriété de ses aventures, Superman est essentiel dans la création d’un genre propre aux super-héros.",
+            "clue": "Il y a que les vieux ....",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y0WdVXLQ": "godu",
+            "choice_NkDG-VmLX": "esa-coorp",
+            "choice_E1cz-Nm8X": "t1b0",
+            "choice_4kZQOEQIm": "joan"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Click on the correct answers to place them in the second column.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y0WdVXLQ": "",
+            "choice_NkDG-VmLX": "",
+            "choice_E1cz-Nm8X": "",
+            "choice_4kZQOEQIm": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Presiona las respuestas correctas para colocarlas en la segunda columna.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y0WdVXLQ": "",
+            "choice_NkDG-VmLX": "",
+            "choice_E1cz-Nm8X": "",
+            "choice_4kZQOEQIm": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y0WdVXLQ": "",
+            "choice_NkDG-VmLX": "",
+            "choice_E1cz-Nm8X": "",
+            "choice_4kZQOEQIm": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y0WdVXLQ": "",
+            "choice_NkDG-VmLX": "",
+            "choice_E1cz-Nm8X": "",
+            "choice_4kZQOEQIm": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y0WdVXLQ": "",
+            "choice_NkDG-VmLX": "",
+            "choice_E1cz-Nm8X": "",
+            "choice_4kZQOEQIm": ""
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T20:04:49.256Z",
+            "updatedAt": "2017-07-27T20:04:49.256Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "med_NJWArNXIm",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_VyeryLV7L7",
+                "mimeType": "",
+                "mediaUrl": "mediaUrl_Ekr1IVmUX"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "mediaUrl_Ekr1IVmUX": "//static.coorpacademy.com/content/partner-au-feminin/fr/medias/img/choice/faux-1455034604652.png",
+            "filename_VyeryLV7L7": "faux-1455034604652.png"
+        },
+        "en": {},
+        "es": {},
+        "cs": {},
+        "da": {},
+        "za": {}
+    }
+}

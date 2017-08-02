@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T14:48:36.977Z",
+            "updatedAt": "2017-07-18T09:06:43.537Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_4ymMuMFb9",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_Nkp3AnLBQ"
+            ],
+            "content": {
+                "label": "label",
+                "placeholder": "placeholder",
+                "id": "sli_4ymMuMFb9.id",
+                "answers": [
+                    "choice_02"
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Capitale de la France ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Paris est aussi la capitale de la région d'Île de France.",
+            "tips": "Paris n'a pas toujours été la capitale du pays. Tours par exemple l'a été pendant 3 jours en 1940, ainsi que Bordeaux pendant 15 jours, avant d'aller à Vichy.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_01": "Saisissez_votre_reponse",
+            "choice_02": "Paris",
+            "choice_03": "twitter",
+            "choice_04": "TWITTER",
+            "clue": "C'est pas Versailles"
+        },
+        "en": {
+            "header": "Which social network stands out from the rest with its instant messages limited to 140 characters?",
+            "explanation": "Type your answer.",
+            "klf": "Two out of three users access Twitter via their mobile.",
+            "tips": "On Twitter, the leading name in microblogging, messages are limited to 140 chararcters.",
+            "label": "",
+            "placeholder": " ",
+            "choice_01": "Type_your_answer",
+            "choice_02": "Twitter",
+            "choice_03": "twitter",
+            "choice_04": "TWITTER",
+            "clue": "Its logo is a small blue bird."
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        }
+    }
+}

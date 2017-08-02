@@ -1,0 +1,36 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-29T12:12:28.598Z",
+            "updatedAt": "2017-06-29T12:12:28.598Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_E1SDa0pX7",
+        "type": "pdf",
+        "src": [
+            {
+                "filename": "filename_4JelOpCpQ7",
+                "mimeType": "application/pdf",
+                "mediaUrl": "mediaUrl_VklOaCaXm",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_4JelOpCpQ7": "OrganisationDuContenu.pdf",
+            "mediaUrl_VklOaCaXm": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com%2Fcontent%2FCoorpAcademy%2Fcontent%2FcockpitRecette-joan%2Fraw/organisationducontenu-1498738250502.pdf"
+        },
+        "en": {},
+        "es": {},
+        "cs": {},
+        "da": {},
+        "za": {}
+    }
+}

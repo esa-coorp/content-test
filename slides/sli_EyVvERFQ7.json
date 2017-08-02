@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-26T10:46:33.422Z",
+            "updatedAt": "2017-06-26T10:46:33.422Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyZ4M0YQ7"
+            ],
+            "status": "draft",
+            "modifiedBy": "chrisdugne",
+            "createdBy": "chrisdugne"
+        },
+        "ref": "sli_EyVvERFQ7",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyVvERFQ7.choice_Vyl54AKm7.id",
+                        "label": "choice_Vyl54AKm7",
+                        "value": "choice_Vyl54AKm7"
+                    },
+                    {
+                        "id": "sli_EyVvERFQ7.choice_VkXsNRtXm.id",
+                        "label": "choice_VkXsNRtXm",
+                        "value": "choice_VkXsNRtXm"
+                    },
+                    {
+                        "id": "sli_EyVvERFQ7.choice_EkJ2N0t7Q.id",
+                        "label": "choice_EkJ2N0t7Q",
+                        "value": "choice_EkJ2N0t7Q"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkXsNRtXm"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la différence entre un pigeon ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Une référence capitale!",
+            "tips": "Le pigeon voyage.",
+            "clue": "Trop simple.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyl54AKm7": "Aucune",
+            "choice_VkXsNRtXm": "Spider cochon",
+            "choice_EkwiEAFQm": "Chuck Norris",
+            "choice_EkJ2N0t7Q": "Ça dépend."
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyl54AKm7": "",
+            "choice_VkXsNRtXm": "",
+            "choice_EkwiEAFQm": "",
+            "choice_EkJ2N0t7Q": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyl54AKm7": "",
+            "choice_VkXsNRtXm": "",
+            "choice_EkwiEAFQm": "",
+            "choice_EkJ2N0t7Q": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyl54AKm7": "",
+            "choice_VkXsNRtXm": "",
+            "choice_EkwiEAFQm": "",
+            "choice_EkJ2N0t7Q": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyl54AKm7": "",
+            "choice_VkXsNRtXm": "",
+            "choice_EkwiEAFQm": "",
+            "choice_EkJ2N0t7Q": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyl54AKm7": "",
+            "choice_VkXsNRtXm": "",
+            "choice_EkwiEAFQm": "",
+            "choice_EkJ2N0t7Q": ""
+        }
+    }
+}

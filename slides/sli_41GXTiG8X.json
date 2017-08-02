@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T10:20:22.119Z",
+            "updatedAt": "2017-07-27T10:25:58.880Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "godu",
+            "createdBy": "godu"
+        },
+        "ref": "sli_41GXTiG8X",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_41GXTiG8X.id",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 50,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'age d'Éric ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Il a connu les dinosaures.",
+            "tips": "Il a connu les dinosaures.",
+            "clue": "Vieuxxxxxx",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "an(s)",
+            "description": "Yolo",
+            "answerMin": 90,
+            "answerMax": 100
+        },
+        "en": {
+            "header": "",
+            "explanation": "Drag the slider.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "es": {
+            "header": "",
+            "explanation": "Arrastre el deslizador.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        }
+    }
+}

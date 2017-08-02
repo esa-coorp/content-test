@@ -1,0 +1,49 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2017-05-11T14:15:19.444Z",
+            "updatedAt": "2017-08-02T14:20:18.102Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "part_V1-3xwT17",
+        "name": "name",
+        "description": "description",
+        "url": "http://www.aufeminin.com/",
+        "logo": "med_VJtUWPakQ",
+        "socialLinks": [
+            {
+                "ref": "facebook",
+                "link": "https://www.facebook.com/pages/Aufeminin/22036796848"
+            },
+            {
+                "ref": "twitter",
+                "link": "http://twitter.com/#!/aufeminin"
+            },
+            {
+                "ref": "google-plus",
+                "link": "https://plus.google.com/112979638123944175199"
+            },
+            {
+                "ref": "instagram",
+                "link": "https://www.instagram.com/aufeminin_com/"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "name": "aufeminin",
+            "description": "Média phare de l’actualité féminine fondé en 1999, *aufeminin* appartient au groupe de média mondial éponyme, qui rassemble sur ses plateformes près de 143 millions de visiteurs par mois dans le monde. En France, le Groupe aufeminin ([aufeminin.com](https://aufeminin.com), [Marmiton](http://www.marmiton.org/), [My Little Paris](http://www.mylittleparis.com/), [Merci Alfred](http://www.mercialfred.com/), [Onmeda](http://www.onmeda.fr/), [EtoileCasting](http://www.etoilecasting.com/)) représente plus de 20 millions de visiteurs uniques par mois.<br>Dirigé depuis 2010 par Marie-Laure Sauty de Chalon, *aufeminin* s’engage pour les droits des femmes à travers différentes actions et soutiens à des associations et **ONG**."
+        },
+        "en": {
+            "name": "aufeminin",
+            "description": "The flagship media for women’s news *aufeminin* was founded in 1999 and belongs to the global media group of the same name, which gathers nearly 143 million monthly visitors around the world on its various platforms. In France, the aufeminin brand ([aufeminin.com](https://aufeminin.com), [Marmiton](http://www.marmiton.org/), [My Little Paris](http://www.mylittleparis.com/), [Merci Alfred](http://www.mercialfred.com/), [Onmeda](http://www.onmeda.fr/), [EtoileCasting](http://www.etoilecasting.com/)) receives more than 20 million unique visitors every month.<br>Directed by Marie-Laure Sauty de Chalon since 2010, *aufeminin* defends women's rights through various actions and support of several associations and **NGOs**."
+        }
+    }
+}

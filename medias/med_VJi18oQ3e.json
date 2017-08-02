@@ -1,0 +1,36 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:37:33.563Z",
+            "updatedAt": "2016-03-05T10:37:33.563Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "med_VJi18oQ3e",
+        "type": "img",
+        "format": "choice",
+        "src": [
+            {
+                "filename": "filename_E1eybUjQ2g",
+                "mimeType": "image/png",
+                "mediaUrl": "mediaUrl_EJkWIiX3g"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_E1eybUjQ2g": "vrai.png",
+            "mediaUrl_EJkWIiX3g": "//static.coorpacademy.com/content/partner-au-feminin/fr/medias/img/choice/vrai-1457174237348.png"
+        },
+        "en": {
+            "filename_E1eybUjQ2g": "vrai.png",
+            "mediaUrl_EJkWIiX3g": "//static.coorpacademy.com/content/partner-au-feminin/en/medias/img/choice/vrai-1457174237348.png"
+        }
+    }
+}

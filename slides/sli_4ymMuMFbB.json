@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T14:48:36.977Z",
+            "updatedAt": "2017-07-18T09:06:00.517Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_4ymMuMFbB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_VyW903LBm"
+            ],
+            "content": {
+                "label": "label",
+                "placeholder": "placeholder",
+                "id": "sli_4ymMuMFbB.id",
+                "answers": [
+                    "choice_02"
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "De quelle couleur est le cheval blanc de Henri IV ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Pas problème si t'es daltonien.",
+            "tips": "On fait la même blague en Amérique du Sud, avec le cheval blanc de Simon Bolivar.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_01": "Saisissez_votre_reponse",
+            "choice_02": "Blanc",
+            "choice_03": "twitter",
+            "choice_04": "TWITTER",
+            "clue": "C'est le contraire du noir."
+        },
+        "en": {
+            "header": "Which social network stands out from the rest with its instant messages limited to 140 characters?",
+            "explanation": "Type your answer.",
+            "klf": "Two out of three users access Twitter via their mobile.",
+            "tips": "On Twitter, the leading name in microblogging, messages are limited to 140 chararcters.",
+            "label": "",
+            "placeholder": " ",
+            "choice_01": "Type_your_answer",
+            "choice_02": "Twitter",
+            "choice_03": "twitter",
+            "choice_04": "TWITTER",
+            "clue": "Its logo is a small blue bird."
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJaHdMK~7": "",
+            "choice_NkfU-MtbX": ""
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:31:57.703Z",
+            "updatedAt": "2016-05-28T09:16:29.711Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [
+                "mod_EyrZRoMql"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG3",
+            "createdBy": "LaurenceMD",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "cha_N1HzCjG9x",
+        "name": "name",
+        "position": 1,
+        "stars": 20,
+        "time": null,
+        "freeRun": false
+    },
+    "locales": {
+        "fr": {
+            "name": "Se libérer des stéréotypes et des clichés"
+        },
+        "en": {
+            "name": "Liberating yourself from stereotypes and clichés"
+        }
+    }
+}

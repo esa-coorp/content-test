@@ -1,0 +1,44 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T19:29:16.258Z",
+            "updatedAt": "2017-07-27T19:33:37.458Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "cha_N1J7R7QIQ",
+        "name": "name",
+        "position": 0,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": false,
+        "poster": null
+    },
+    "locales": {
+        "fr": {
+            "name": "Chapter 3"
+        },
+        "en": {
+            "name": ""
+        },
+        "es": {
+            "name": ""
+        },
+        "cs": {
+            "name": ""
+        },
+        "da": {
+            "name": ""
+        },
+        "za": {
+            "name": ""
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T09:49:53.315Z",
+            "updatedAt": "2017-06-28T08:26:41.663Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "godu",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_VkcAWR-ZQ",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkcAWR-ZQ.choice_E1RSGRu~m.id",
+                        "label": "choice_E1RSGRu~m",
+                        "value": "choice_E1RSGRu~m"
+                    },
+                    {
+                        "id": "sli_VkcAWR-ZQ.choice_4JwIM0u~7.id",
+                        "label": "choice_4JwIM0u~7",
+                        "value": "choice_4JwIM0u~7"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1RSGRu~m"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Choisissez la bonne réponse.",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Lire n'est pas difficile.",
+            "tips": "Il y a pas mal de gens qui se trompent sans lire.",
+            "clue": "C'est pas la mauvaise réponse.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1RSGRu~m": "Bonne réponse",
+            "choice_4JwIM0u~7": "Mauvaise réponse"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1RSGRu~m": "",
+            "choice_4JwIM0u~7": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1RSGRu~m": "",
+            "choice_4JwIM0u~7": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1RSGRu~m": "",
+            "choice_4JwIM0u~7": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1RSGRu~m": "",
+            "choice_4JwIM0u~7": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1RSGRu~m": "",
+            "choice_4JwIM0u~7": ""
+        }
+    }
+}

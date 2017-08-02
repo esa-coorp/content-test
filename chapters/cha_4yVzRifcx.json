@@ -1,0 +1,33 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:31:57.703Z",
+            "updatedAt": "2017-07-27T19:41:31.658Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [
+                "mod_EyrZRoMql"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "LaurenceMD",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "cha_4yVzRifcx",
+        "name": "name",
+        "position": 2,
+        "stars": 20,
+        "time": null,
+        "freeRun": true
+    },
+    "locales": {
+        "fr": {
+            "name": "Les obstacles qui empêchent les femmes d’avancer"
+        },
+        "en": {
+            "name": "The obstacles that prevent women from advancing"
+        }
+    }
+}

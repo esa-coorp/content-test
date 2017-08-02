@@ -1,0 +1,34 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T09:22:51.983Z",
+            "updatedAt": "2016-05-28T09:16:29.711Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modules": [
+                "mod_EJd~RjG5e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG3",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "cha_4yQa9hiG~",
+        "name": "name",
+        "position": 0,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": false
+    },
+    "locales": {
+        "fr": {
+            "name": "Travailler sa posture"
+        },
+        "en": {
+            "name": "Working on your posture"
+        }
+    }
+}

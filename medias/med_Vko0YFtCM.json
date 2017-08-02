@@ -1,0 +1,52 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2017-04-26T13:04:21.726Z",
+            "updatedAt": "2017-04-26T13:04:21.726Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "MelkMerle",
+            "createdBy": "MelkMerle"
+        },
+        "ref": "med_Vko0YFtCM",
+        "type": "img",
+        "format": "partnerLogo",
+        "src": [
+            {
+                "filename": "filename_4kxbeqFFRM",
+                "mimeType": "image/jpeg",
+                "mediaUrl": "mediaUrl_41bg5YtAM",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_4kxbeqFFRM": "160049224_803a4b.jpg",
+            "mediaUrl_41bg5YtAM": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/partnerLogo/160049224_803a4b-1493211857685.jpg"
+        },
+        "en": {
+            "filename_4kxbeqFFRM": "160049224_803a4b.jpg",
+            "mediaUrl_41bg5YtAM": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/partnerLogo/160049224_803a4b-1493211857685.jpg"
+        },
+        "es": {
+            "filename_4kxbeqFFRM": "160049224_803a4b.jpg",
+            "mediaUrl_41bg5YtAM": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/partnerLogo/160049224_803a4b-1493211857685.jpg"
+        },
+        "cs": {
+            "filename_4kxbeqFFRM": "160049224_803a4b.jpg",
+            "mediaUrl_41bg5YtAM": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/partnerLogo/160049224_803a4b-1493211857685.jpg"
+        },
+        "da": {
+            "filename_4kxbeqFFRM": "160049224_803a4b.jpg",
+            "mediaUrl_41bg5YtAM": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/partnerLogo/160049224_803a4b-1493211857685.jpg"
+        },
+        "za": {
+            "filename_4kxbeqFFRM": "160049224_803a4b.jpg",
+            "mediaUrl_41bg5YtAM": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/partnerLogo/160049224_803a4b-1493211857685.jpg"
+        }
+    }
+}

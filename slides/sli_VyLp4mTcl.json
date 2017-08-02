@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T09:03:55.470Z",
+            "updatedAt": "2016-09-05T15:07:26.277Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VyLp4mTcl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyLp4mTcl.choice_NJ1gUQa9e.id",
+                        "label": "choice_NJ1gUQa9e",
+                        "value": "choice_NJ1gUQa9e"
+                    },
+                    {
+                        "id": "sli_VyLp4mTcl.choice_NyxkeUmaqx.id",
+                        "label": "choice_NyxkeUmaqx",
+                        "value": "choice_NyxkeUmaqx"
+                    },
+                    {
+                        "id": "sli_VyLp4mTcl.choice_N1el8X6ql.id",
+                        "label": "choice_N1el8X6ql",
+                        "value": "choice_N1el8X6ql"
+                    },
+                    {
+                        "id": "sli_VyLp4mTcl.choice_4krl8ma5g.id",
+                        "label": "choice_4krl8ma5g",
+                        "value": "choice_4krl8ma5g"
+                    },
+                    {
+                        "id": "sli_VyLp4mTcl.choice_4kIxU7pce.id",
+                        "label": "choice_4kIxU7pce",
+                        "value": "choice_4kIxU7pce"
+                    },
+                    {
+                        "id": "sli_VyLp4mTcl.choice_EkgLlLXaqg.id",
+                        "label": "choice_EkgLlLXaqg",
+                        "value": "choice_EkgLlLXaqg"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1el8X6ql",
+                        "choice_4kIxU7pce",
+                        "choice_EkgLlLXaqg"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la loi française protège-t-elle les femmes contre les discriminations liées à la maternité ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "En France, la loi protège les femmes enceintes en interdisant leur licenciement, sauf pour faute grave et motif économique. Elles ne peuvent pas non plus subir de traitement défavorable comme le refus d'une formation. Il est aussi interdit à l'employeur de se renseigner sur le désir d'enfant d'une candidate pendant l'entretien d'embauche.",
+            "tips": "Selon la Halde (Haute autorité de lutte contre les discriminations et pour l'égalité), 23% des Françaises actives et retraitées ont déjà été interrogées sur leurs projets familiaux en entretien d'embauche.",
+            "clue": "Des protections supplémentaires.",
+            "choice_NJ1gUQa9e": "Elle interdit tout licenciement pendant les neuf mois de grossesse",
+            "choice_NyxkeUmaqx": "Elle oblige légalement les femmes à prendre leur congé maternité",
+            "choice_N1el8X6ql": "Elle interdit le licenciement pendant le congé maternité, sauf pour faute grave et motif économique",
+            "choice_4krl8ma5g": "Les femmes sont protégées au même titre que les autres salariés",
+            "choice_4kIxU7pce": "Elle interdit de se renseigner sur les projets familiaux d'une candidate à un poste",
+            "choice_EkgLlLXaqg": "Elle interdit tout traitement défavorable du fait de la grossesse"
+        },
+        "en": {
+            "header": "How does French law protect women against maternity discrimination?",
+            "explanation": "Select the correct answer.",
+            "klf": "In France, the law protects pregnant women by prohibiting their dismissal, except for gross negligence and economic grounds. They cannot suffer improper treatment such as being refused training. It is also prohibited for employers to ask a candidate during the job interview whether or not they plan to have children.",
+            "tips": "According to the Halde (French \"Equal Opportunities and Anti-Discrimination Commission\"), 23% of active and retired French women have been asked about their family plans in the interview.",
+            "choice_NJ1gUQa9e": "It prohibits any dismissal during the nine months of pregnancy",
+            "choice_NyxkeUmaqx": "It legally obliges women to take maternity leave",
+            "choice_N1el8X6ql": "It prohibits dismissal during maternity leave, except for gross negligence and economic grounds",
+            "choice_4krl8ma5g": "Women are protected in the same way as other employees",
+            "choice_4kIxU7pce": "It is prohibited to enquire about a candidate's family plans  ",
+            "choice_EkgLlLXaqg": "It prohibits any unfavourable treatment due to pregnancy",
+            "clue": "Additional protection."
+        }
+    }
+}

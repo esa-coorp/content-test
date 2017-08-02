@@ -1,0 +1,151 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T09:47:27.558Z",
+            "updatedAt": "2017-07-03T09:35:23.532Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_Vy88~R-bX",
+        "position": 1,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy88~R-bX.choice_EyWTW0O~X.id",
+                        "label": "choice_EyWTW0O~X",
+                        "value": "choice_EyWTW0O~X"
+                    },
+                    {
+                        "id": "sli_Vy88~R-bX.choice_EJmabCuZX.id",
+                        "label": "choice_EJmabCuZX",
+                        "value": "choice_EJmabCuZX"
+                    },
+                    {
+                        "id": "sli_Vy88~R-bX.choice_NyoT~C-~X.id",
+                        "label": "choice_NyoT~C-~X",
+                        "value": "choice_NyoT~C-~X"
+                    },
+                    {
+                        "id": "sli_Vy88~R-bX.choice_4yJ-GOQXm.id",
+                        "label": "choice_4yJ-GOQXm",
+                        "value": "choice_4yJ-GOQXm"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyoT~C-~X"
+                    ],
+                    [
+                        "choice_4yJ-GOQXm"
+                    ],
+                    [
+                        "choice_NyoT~C-~X",
+                        "choice_4yJ-GOQXm"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien ça fait 1 + 1 ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Difficile hein !",
+            "tips": "Que 1 X 1 n'est pas 2 !",
+            "clue": "Une pomme plus une pomme",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWTW0O~X": "0",
+            "choice_EJmabCuZX": "1",
+            "choice_NyoT~C-~X": "2",
+            "choice_4yJ-GOQXm": "Deux"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWTW0O~X": "",
+            "choice_EJmabCuZX": "",
+            "choice_NyoT~C-~X": "",
+            "choice_4yJ-GOQXm": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWTW0O~X": "",
+            "choice_EJmabCuZX": "",
+            "choice_NyoT~C-~X": "",
+            "choice_4yJ-GOQXm": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWTW0O~X": "",
+            "choice_EJmabCuZX": "",
+            "choice_NyoT~C-~X": "",
+            "choice_4yJ-GOQXm": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWTW0O~X": "",
+            "choice_EJmabCuZX": "",
+            "choice_NyoT~C-~X": "",
+            "choice_4yJ-GOQXm": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWTW0O~X": "",
+            "choice_EJmabCuZX": "",
+            "choice_NyoT~C-~X": "",
+            "choice_4yJ-GOQXm": ""
+        }
+    }
+}

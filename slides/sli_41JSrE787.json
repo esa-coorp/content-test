@@ -1,0 +1,124 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-27T20:04:49.256Z",
+            "updatedAt": "2017-07-27T20:04:49.256Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "sli_41JSrE787",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41JSrE787.choice_VylDpS4m8X.id",
+                        "label": "choice_VylDpS4m8X",
+                        "value": "choice_VylDpS4m8X",
+                        "media": "med_NyP6SEQUm"
+                    },
+                    {
+                        "id": "sli_41JSrE787.choice_EkgZ0HNXLX.id",
+                        "label": "choice_EkgZ0HNXLX",
+                        "value": "choice_EkgZ0HNXLX",
+                        "media": "med_NJWArNXIm"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VylDpS4m8X"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "(2 + 2 - 2) / 2 = 1?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Le nombre 1 (un) est l'entier naturel représentant une entité seule. « Un » fait quelquefois référence à l'unité, et « unitaire » est quelquefois utilisé comme un adjectif dans ce sens.",
+            "tips": "Le nombre 1 (un) est l'entier naturel représentant une entité seule. « Un » fait quelquefois référence à l'unité, et « unitaire » est quelquefois utilisé comme un adjectif dans ce sens.",
+            "clue": "(3 + 3 - 3) / 3 = 1",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VylDpS4m8X": "Vrai",
+            "choice_EkgZ0HNXLX": "Faux"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VylDpS4m8X": "",
+            "choice_EkgZ0HNXLX": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Selecciona la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VylDpS4m8X": "",
+            "choice_EkgZ0HNXLX": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VylDpS4m8X": "",
+            "choice_EkgZ0HNXLX": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VylDpS4m8X": "",
+            "choice_EkgZ0HNXLX": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VylDpS4m8X": "",
+            "choice_EkgZ0HNXLX": ""
+        }
+    }
+}

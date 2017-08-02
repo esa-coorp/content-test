@@ -1,0 +1,133 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-06-01T14:42:46.089Z",
+            "updatedAt": "2017-06-29T12:20:58.184Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny1BTxRp~"
+            ],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "sli_EyinLfF~X",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyinLfF~X.choice_EyYRLMYWQ.id",
+                        "label": "choice_EyYRLMYWQ",
+                        "value": "choice_EyYRLMYWQ"
+                    },
+                    {
+                        "id": "sli_EyinLfF~X.choice_V1M1wGFWm.id",
+                        "label": "choice_V1M1wGFWm",
+                        "value": "choice_V1M1wGFWm"
+                    },
+                    {
+                        "id": "sli_EyinLfF~X.choice_NJdkDfF~Q.id",
+                        "label": "choice_NJdkDfF~Q",
+                        "value": "choice_NJdkDfF~Q"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1M1wGFWm"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Répondez à cette question si difficile... 2 x 2 ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "2 x 2 est égal à additionner 2 fois le chiffre 2 à zéro. C'est-à-dire 0 + 2 = 2 (une première fois), plus 2 (ce qu'on a cumulé) + 2 = 4.",
+            "tips": "4 s'écrit 11 en base 3",
+            "clue": "8 / 2",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyYRLMYWQ": "Je ne sais pas",
+            "choice_V1M1wGFWm": "4",
+            "choice_NJdkDfF~Q": "Demandez à Lucas !"
+        },
+        "en": {
+            "header": "",
+            "explanation": "Select the correct answer(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyYRLMYWQ": "",
+            "choice_V1M1wGFWm": "",
+            "choice_NJdkDfF~Q": ""
+        },
+        "es": {
+            "header": "",
+            "explanation": "Seleccione la(s) respuesta(s) correcta(s).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyYRLMYWQ": "",
+            "choice_V1M1wGFWm": "",
+            "choice_NJdkDfF~Q": ""
+        },
+        "cs": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyYRLMYWQ": "",
+            "choice_V1M1wGFWm": "",
+            "choice_NJdkDfF~Q": ""
+        },
+        "da": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyYRLMYWQ": "",
+            "choice_V1M1wGFWm": "",
+            "choice_NJdkDfF~Q": ""
+        },
+        "za": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyYRLMYWQ": "",
+            "choice_V1M1wGFWm": "",
+            "choice_NJdkDfF~Q": ""
+        }
+    }
+}

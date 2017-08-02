@@ -1,0 +1,51 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-07-18T09:06:00.517Z",
+            "updatedAt": "2017-07-18T09:06:00.517Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_VyW903LBm",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_V1eP9C3UrX",
+                "mimeType": "image/jpeg",
+                "mediaUrl": "mediaUrl_Eyv9AnLBX",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_V1eP9C3UrX": "cheval.jpg",
+            "mediaUrl_Eyv9AnLBX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/cheval-1500368753292.jpg"
+        },
+        "en": {
+            "filename_V1eP9C3UrX": "cheval.jpg",
+            "mediaUrl_Eyv9AnLBX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/cheval-1500368753292.jpg"
+        },
+        "es": {
+            "filename_V1eP9C3UrX": "cheval.jpg",
+            "mediaUrl_Eyv9AnLBX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/cheval-1500368753292.jpg"
+        },
+        "cs": {
+            "filename_V1eP9C3UrX": "cheval.jpg",
+            "mediaUrl_Eyv9AnLBX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/cheval-1500368753292.jpg"
+        },
+        "da": {
+            "filename_V1eP9C3UrX": "cheval.jpg",
+            "mediaUrl_Eyv9AnLBX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/cheval-1500368753292.jpg"
+        },
+        "za": {
+            "filename_V1eP9C3UrX": "cheval.jpg",
+            "mediaUrl_Eyv9AnLBX": "//static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/cheval-1500368753292.jpg"
+        }
+    }
+}

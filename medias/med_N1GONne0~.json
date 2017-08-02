@@ -1,0 +1,51 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-07T15:55:06.989Z",
+            "updatedAt": "2016-10-07T15:55:06.989Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_N1GONne0~",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_V1lDuV3xAW",
+                "mimeType": "image/jpeg",
+                "mediaUrl": "mediaUrl_V1DuV3xCW",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_V1lDuV3xAW": "fondos-de-pantalla-zen-wallpaper-01.jpg",
+            "mediaUrl_V1DuV3xCW": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/fondos-de-pantalla-zen-wallpaper-01-1475855701662.jpg"
+        },
+        "en": {
+            "filename_V1lDuV3xAW": "fondos-de-pantalla-zen-wallpaper-01.jpg",
+            "mediaUrl_V1DuV3xCW": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/fondos-de-pantalla-zen-wallpaper-01-1475855701662.jpg"
+        },
+        "es": {
+            "filename_V1lDuV3xAW": "fondos-de-pantalla-zen-wallpaper-01.jpg",
+            "mediaUrl_V1DuV3xCW": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/fondos-de-pantalla-zen-wallpaper-01-1475855701662.jpg"
+        },
+        "cs": {
+            "filename_V1lDuV3xAW": "fondos-de-pantalla-zen-wallpaper-01.jpg",
+            "mediaUrl_V1DuV3xCW": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/fondos-de-pantalla-zen-wallpaper-01-1475855701662.jpg"
+        },
+        "da": {
+            "filename_V1lDuV3xAW": "fondos-de-pantalla-zen-wallpaper-01.jpg",
+            "mediaUrl_V1DuV3xCW": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/fondos-de-pantalla-zen-wallpaper-01-1475855701662.jpg"
+        },
+        "za": {
+            "filename_V1lDuV3xAW": "fondos-de-pantalla-zen-wallpaper-01.jpg",
+            "mediaUrl_V1DuV3xCW": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/default/fondos-de-pantalla-zen-wallpaper-01-1475855701662.jpg"
+        }
+    }
+}

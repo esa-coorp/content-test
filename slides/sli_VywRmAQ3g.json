@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:54:58.824Z",
+            "updatedAt": "2016-07-22T13:36:59.263Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "leosiegel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VywRmAQ3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VywRmAQ3g.choice_VkVV40Q2g.id",
+                        "label": "choice_VkVV40Q2g",
+                        "value": "choice_VkVV40Q2g"
+                    },
+                    {
+                        "id": "sli_VywRmAQ3g.choice_NyUEECQ2l.id",
+                        "label": "choice_NyUEECQ2l",
+                        "value": "choice_NyUEECQ2l"
+                    },
+                    {
+                        "id": "sli_VywRmAQ3g.choice_NkvVER73e.id",
+                        "label": "choice_NkvVER73e",
+                        "value": "choice_NkvVER73e"
+                    },
+                    {
+                        "id": "sli_VywRmAQ3g.choice_Ey-4VAQ2l.id",
+                        "label": "choice_Ey-4VAQ2l",
+                        "value": "choice_Ey-4VAQ2l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyUEECQ2l",
+                        "choice_NkvVER73e"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que désigne-t-on par le terme \"automotivation\" ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "L'automotivation est la capacité à avancer malgré des obstacles professionnels, en gardant toujours à l'esprit ses envies profondes.",
+            "tips": "Selon une étude du psychologue Charles R. Snyder, l'automotivation est facilitée par l'optimisme, la personne n'étant pas accaparée par des pensées négatives liées à l'angoisse de l'échec, par exemple.",
+            "clue": "Du long terme.",
+            "choice_VkVV40Q2g": "Réussir à se lever le matin",
+            "choice_NyUEECQ2l": "Avancer malgré les obstacles professionnels",
+            "choice_NkvVER73e": "Garder à l'esprit ses envies profondes",
+            "choice_Ey-4VAQ2l": "Ne jamais se démotiver"
+        },
+        "en": {
+            "header": "What is meant by the term \"self-motivation\"?",
+            "explanation": "Select the correct answers.",
+            "klf": "Self-motivation is the ability to progress despite professional obstacles, always bearing in mind your deepest wishes.",
+            "tips": "According to a study by psychologist Charles R. Snyder, self-motivation is facilitated by optimism, the person is not preoccupied by negative thoughts related to fear of failure, for example.",
+            "choice_VkVV40Q2g": "Managing to get up in the morning",
+            "choice_NyUEECQ2l": "Progressing despite professional obstacles",
+            "choice_NkvVER73e": "Not forgetting your deepest wishes",
+            "choice_Ey-4VAQ2l": "Never becoming demotivated",
+            "clue": "Long term."
+        }
+    }
+}

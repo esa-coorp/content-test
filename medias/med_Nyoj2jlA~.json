@@ -1,0 +1,52 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2016-10-07T15:22:13.766Z",
+            "updatedAt": "2016-10-07T15:22:13.766Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jomaora",
+            "createdBy": "jomaora"
+        },
+        "ref": "med_Nyoj2jlA~",
+        "type": "img",
+        "format": "choice",
+        "src": [
+            {
+                "filename": "filename_VklBnnseAZ",
+                "mimeType": "image/jpeg",
+                "mediaUrl": "mediaUrl_VkH33ieC~",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_VklBnnseAZ": "error.jpeg",
+            "mediaUrl_VkH33ieC~": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/choice/error-1475853716762.jpeg"
+        },
+        "en": {
+            "filename_VklBnnseAZ": "error.jpeg",
+            "mediaUrl_VkH33ieC~": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/choice/error-1475853716762.jpeg"
+        },
+        "es": {
+            "filename_VklBnnseAZ": "error.jpeg",
+            "mediaUrl_VkH33ieC~": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/choice/error-1475853716762.jpeg"
+        },
+        "cs": {
+            "filename_VklBnnseAZ": "error.jpeg",
+            "mediaUrl_VkH33ieC~": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/choice/error-1475853716762.jpeg"
+        },
+        "da": {
+            "filename_VklBnnseAZ": "error.jpeg",
+            "mediaUrl_VkH33ieC~": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/choice/error-1475853716762.jpeg"
+        },
+        "za": {
+            "filename_VklBnnseAZ": "error.jpeg",
+            "mediaUrl_VkH33ieC~": "https://s3-eu-west-1.amazonaws.com/static.coorpacademy.com/content/CoorpAcademy/content/cockpitRecette-joan/choice/error-1475853716762.jpeg"
+        }
+    }
+}
