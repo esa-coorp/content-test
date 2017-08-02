@@ -1,0 +1,29 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2017-08-02T14:20:18.104Z",
+            "updatedAt": "2017-08-02T14:20:18.104Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "esa-coorp"
+        },
+        "ref": "ALL",
+        "type": "theme",
+        "name": "name",
+        "description": "description"
+    },
+    "locales": {
+        "en": {
+            "name": "",
+            "description": ""
+        },
+        "fr": {
+            "name": "All",
+            "description": ""
+        }
+    }
+}

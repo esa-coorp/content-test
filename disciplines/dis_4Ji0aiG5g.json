@@ -3,12 +3,12 @@
         "meta": {
             "isoCore": true,
             "createdAt": "2016-02-09T10:31:57.702Z",
-            "updatedAt": "2017-05-11T14:15:19.443Z",
+            "updatedAt": "2017-08-02T14:20:18.102Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
             "status": "draft",
-            "modifiedBy": "Margaux-Schmitt",
+            "modifiedBy": "esa-coorp",
             "createdBy": "LaurenceMD",
             "coreBranch": "partner-au-feminin"
         },
@@ -28,7 +28,10 @@
             "part_V1-3xwT17"
         ],
         "partnershipType": "paidpartner",
-        "thematiques": []
+        "thematiques": [
+            "ALL",
+            "them_41p3Rp9Um"
+        ]
     },
     "locales": {
         "fr": {
